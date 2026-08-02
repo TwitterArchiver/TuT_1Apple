@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2065402871915610265",
+    "created_at": "2026-06-12T13:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065419045386719290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2021581166634295296",
+          "start": 0,
+          "username": "XHzilq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065419045386719290",
+    "in_reply_to_user_id": "2021581166634295296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065402871915610265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XHzilq 你已经毕业了吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2065402871915610265",
+        "created_at": "2026-06-12T13:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065419045386719290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2021581166634295296",
+              "start": 0,
+              "username": "XHzilq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065419045386719290",
+        "in_reply_to_user_id": "2021581166634295296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065402871915610265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHzilq 你已经毕业了吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021581166634295296",
+        "conversation_id": "2065402871915610265",
+        "created_at": "2026-06-12T11:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065402871915610265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065402871915610265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高三毕业了 我好难过。•́‸ก"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 23,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T13:47:27.000Z",
+        "description": "我是一个单纯的人...\n女同 \n可以叫我苦苦\n玻璃心\n喜欢到处评论 不要介意\n收不到回复我会伤心...\n不约 不聊骚 不是M\n喜欢发一些废话和自我感觉良好的照片\n给我点赞的小宝我都会看...\n点赞就是喜欢●ｖ●\n不加联系方式\n私信看情况回...\n男的不回 像男的也不回\n🚫男🚫双🚫4i\n男的关注我下面将自动脱落",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xhzilq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xhzilq",
+                "start": 0,
+                "url": "https://t.co/TxVJYOuPX6"
+              }
+            ]
+          }
+        },
+        "id": "2021581166634295296",
+        "name": "中药苦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025761150823272448/qv5wx7bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 71,
+          "like_count": 7239,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/TxVJYOuPX6",
+        "username": "XHzilq",
+        "verified": false
+      }
+    ]
+  }
+}

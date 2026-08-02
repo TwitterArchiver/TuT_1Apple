@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2061822958793068554",
+    "created_at": "2026-06-02T14:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061822958793068554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "983368796839792640",
+          "start": 3,
+          "username": "juutzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061822958793068554",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1964
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061285580437144061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juutzs: Sou apegada a pequenos detalhes e momentos, por isso sofro tanto quando as coisas mudam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2061822958793068554",
+        "created_at": "2026-06-02T14:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061822958793068554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "983368796839792640",
+              "start": 3,
+              "username": "juutzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822958793068554",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1964
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061285580437144061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juutzs: Sou apegada a pequenos detalhes e momentos, por isso sofro tanto quando as coisas mudam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "983368796839792640",
+        "conversation_id": "2061285580437144061",
+        "created_at": "2026-06-01T03:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061285580437144061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061285580437144061",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 56958,
+          "like_count": 3990,
+          "quote_count": 23,
+          "reply_count": 2,
+          "retweet_count": 1964
+        },
+        "reply_settings": "everyone",
+        "text": "Sou apegada a pequenos detalhes e momentos, por isso sofro tanto quando as coisas mudam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD",
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 7,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 83
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T15:39:26.000Z",
+        "description": "i bloom even after the storm @uswju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 29,
+                "username": "uswju"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/juutzs",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/juutzs",
+                "start": 0,
+                "url": "https://t.co/QInYoUzvxL"
+              }
+            ]
+          }
+        },
+        "id": "983368796839792640",
+        "name": "ju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053259970775285763/YWFFkta6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10478,
+          "following_count": 481,
+          "like_count": 10847,
+          "listed_count": 9,
+          "media_count": 227,
+          "tweet_count": 11779
+        },
+        "url": "https://t.co/QInYoUzvxL",
+        "username": "juutzs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2054156910010470640",
+    "created_at": "2026-05-12T11:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054156910010470640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054156910010470640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我确信我被举报大概是刺痛到谁了，说了之后就被举报了，这种人你就等着丝全家吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2054156910010470640",
+        "created_at": "2026-05-12T11:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054156910010470640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054156910010470640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我确信我被举报大概是刺痛到谁了，说了之后就被举报了，这种人你就等着丝全家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "痛痛痛痛痛痛痛痛痛。",
+        "id": "2047631836864483328",
+        "location": "拥有苹果时只在意苹果",
+        "name": "你會珍藏我的每一滴眼淚嗎",
+        "pinned_tweet_id": "2052104618268897603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

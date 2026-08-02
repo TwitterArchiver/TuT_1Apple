@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2062417889051967580",
+    "created_at": "2026-06-04T06:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062417889051967580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1778271835932475392",
+          "start": 3,
+          "username": "_dojacao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062417889051967580",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062173863065129322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_dojacao: aparentemente a depressão só vale se vc se cortar e tentar se matar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2062417889051967580",
+        "created_at": "2026-06-04T06:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062417889051967580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1778271835932475392",
+              "start": 3,
+              "username": "_dojacao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062417889051967580",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062173863065129322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_dojacao: aparentemente a depressão só vale se vc se cortar e tentar se matar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778271835932475392",
+        "conversation_id": "2062173863065129322",
+        "created_at": "2026-06-03T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062173863065129322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062173863065129322",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 90642,
+          "like_count": 9782,
+          "quote_count": 138,
+          "reply_count": 57,
+          "retweet_count": 2221
+        },
+        "reply_settings": "everyone",
+        "text": "aparentemente a depressão só vale se vc se cortar e tentar se matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸or雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 10,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T04:01:27.000Z",
+        "description": "",
+        "id": "1778271835932475392",
+        "name": "rafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048232512535547904/NdPoGnHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 22,
+          "like_count": 4176,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1669
+        },
+        "username": "_dojacao",
+        "verified": false
+      }
+    ]
+  }
+}

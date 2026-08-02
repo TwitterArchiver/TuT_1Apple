@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070115444527382528"
+      ],
+      "media_source_tweet_id": [
+        "2070115446737756654"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2070524763894923619",
+    "created_at": "2026-06-26T15:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070524763894923619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9151qtkgDZ",
+          "end": 47,
+          "expanded_url": "https://x.com/Dormicumproject/status/2070115446737756654/photo/1",
+          "media_key": "3_2070115444527382528",
+          "start": 24,
+          "url": "https://t.co/9151qtkgDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070524763894923619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070115446737756654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 抜歯 https://t.co/9151qtkgDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2070115444527382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqHB2MawAA_eQq.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070115444527382528"
+          ],
+          "media_source_tweet_id": [
+            "2070115446737756654"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2070524763894923619",
+        "created_at": "2026-06-26T15:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070524763894923619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9151qtkgDZ",
+              "end": 47,
+              "expanded_url": "https://x.com/Dormicumproject/status/2070115446737756654/photo/1",
+              "media_key": "3_2070115444527382528",
+              "start": 24,
+              "url": "https://t.co/9151qtkgDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070524763894923619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070115446737756654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 抜歯 https://t.co/9151qtkgDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070115444527382528"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2070115446737756654",
+        "created_at": "2026-06-25T12:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070115446737756654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9151qtkgDZ",
+              "end": 26,
+              "expanded_url": "https://x.com/Dormicumproject/status/2070115446737756654/photo/1",
+              "media_key": "3_2070115444527382528",
+              "start": 3,
+              "url": "https://t.co/9151qtkgDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070115446737756654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 741,
+          "impression_count": 65554,
+          "like_count": 5873,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "抜歯 https://t.co/9151qtkgDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 54,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2070190566001066011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168470,
+          "following_count": 0,
+          "like_count": 4165,
+          "listed_count": 664,
+          "media_count": 1224,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067428967016231189",
+    "created_at": "2026-06-18T03:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067453437835706853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840443382730252288",
+          "start": 0,
+          "username": "elevenie_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067453437835706853",
+    "in_reply_to_user_id": "1840443382730252288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067450795558314366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elevenie_x OK！！谢谢你宝宝 有没有单人游戏推荐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T03:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067453437835706853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840443382730252288",
+              "start": 0,
+              "username": "elevenie_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067453437835706853",
+        "in_reply_to_user_id": "1840443382730252288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067450795558314366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elevenie_x OK！！谢谢你宝宝 有没有单人游戏推荐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840443382730252288",
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T03:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067450795558314366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067450795558314366",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067448218968093131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 都是双人合作解谜探索类游戏，《路易吉》带点恐怖主题，但是氛围总体来说我觉得是偏轻松吧（？），有点小刺激。《毛线小精灵》有点像双人版的《链在一起》，可以单人模式和双人模式，单人模式的时候可以合二为一，等到解谜的时候又可以分开。《胡闹厨房》我玩的时候手残有压力所以不太感冒哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 36,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T17:28:10.000Z",
+        "description": "当日记本了 发点日常和烧话\n坐标成都｜大一🏳️‍🌈\n想要视奸我日常生活&查看现生人格的请移步：@HuaLuoShuLi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "HuaLuoShuLi"
+              }
+            ]
+          }
+        },
+        "id": "1840443382730252288",
+        "location": "万物同频",
+        "name": "Eleven Nie",
+        "pinned_tweet_id": "2061660793851285711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054138504947576832/QwqzSlMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 19,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "elevenie_x",
+        "verified": false
+      }
+    ]
+  }
+}

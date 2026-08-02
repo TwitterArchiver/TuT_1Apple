@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066497134392950796",
+    "created_at": "2026-06-15T12:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066503585979097209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1127818036340084736",
+          "start": 0,
+          "username": "JefferyOXOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066503585979097209",
+    "in_reply_to_user_id": "1127818036340084736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066502975204606050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JefferyOXOX 主页瞎吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066497134392950796",
+        "created_at": "2026-06-15T12:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066503585979097209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1127818036340084736",
+              "start": 0,
+              "username": "JefferyOXOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066503585979097209",
+        "in_reply_to_user_id": "1127818036340084736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066502975204606050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JefferyOXOX 主页瞎吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127818036340084736",
+        "conversation_id": "2066497134392950796",
+        "created_at": "2026-06-15T12:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066502975204606050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066502975204606050",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497134392950796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 請問有🚪嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 33,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T06:09:08.000Z",
+        "description": "25y 投資是我最大的興趣，我喜歡身為潛力股的你",
+        "id": "1127818036340084736",
+        "location": "Taiwan",
+        "name": "傑恩",
+        "pinned_tweet_id": "1555218324069396480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751964198832336896/nNwzhXEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 828,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 969
+        },
+        "username": "JefferyOXOX",
+        "verified": false
+      }
+    ]
+  }
+}

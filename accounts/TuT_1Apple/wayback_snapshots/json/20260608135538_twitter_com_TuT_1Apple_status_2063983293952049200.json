@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2063983293952049200",
+    "created_at": "2026-06-08T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063983293952049200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037614188256776192",
+          "start": 3,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063983293952049200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063913327391322364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gezi_loveMomoki: 不觉得爸爸这个词很色情，明明就是啤酒肚暴力狂对妻子颐指气使的中年油腻大爹形象，只有杀心和呕吐欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2063983293952049200",
+        "created_at": "2026-06-08T13:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063983293952049200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037614188256776192",
+              "start": 3,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063983293952049200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063913327391322364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gezi_loveMomoki: 不觉得爸爸这个词很色情，明明就是啤酒肚暴力狂对妻子颐指气使的中年油腻大爹形象，只有杀心和呕吐欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037614188256776192",
+        "conversation_id": "2063913327391322364",
+        "created_at": "2026-06-08T09:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063913327391322364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063913327391322364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8942,
+          "like_count": 437,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "不觉得爸爸这个词很色情，明明就是啤酒肚暴力狂对妻子颐指气使的中年油腻大爹形象，只有杀心和呕吐欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 17,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "大号被封了就在这说话了，乙代梦全肯定，本号禁腐禁㽖禁rn禁rh，隐私账号不要关注我，只支持染色体为xx且心理认同为女的女孩",
+        "id": "2037614188256776192",
+        "location": "520",
+        "name": "鸽子",
+        "pinned_tweet_id": "2050509168910733742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 158,
+          "like_count": 5339,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 2533
+        },
+        "username": "gezi_loveMomoki",
+        "verified": false
+      }
+    ]
+  }
+}

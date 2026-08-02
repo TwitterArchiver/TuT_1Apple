@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2061532840563773730",
+    "created_at": "2026-06-01T19:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061532840563773730"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061532840563773730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有时候真的觉得很怪，当我不太好的时候所有坏事一团一团的都要糊上来，现在事情已经来到了超MAX版本，早知道刚才赶紧睡了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2061532840563773730",
+        "created_at": "2026-06-01T19:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061532840563773730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061532840563773730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候真的觉得很怪，当我不太好的时候所有坏事一团一团的都要糊上来，现在事情已经来到了超MAX版本，早知道刚才赶紧睡了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD",
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙",
+        "pinned_tweet_id": "2052104618268897603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 5,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 77
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

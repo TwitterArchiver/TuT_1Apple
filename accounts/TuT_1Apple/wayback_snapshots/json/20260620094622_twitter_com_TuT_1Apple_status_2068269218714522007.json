@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068269218714522007",
+    "created_at": "2026-06-20T09:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068269218714522007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068269218714522007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌我你就去死。\n跳楼上吊溺亡 窒息 中毒 烧死冻死饿死渴死病死老死累死吓死笑死气死羞死蠢死 蠢到死 被蠢死 丑死 胖死 瘦死 馋死困死憋死疼死痒死麻死酸死胀死抽筋而死 筋疲力尽而死 脱力而死 精神崩溃而死疯掉而死抑郁而死绝望而死心碎而死魂飞魄散而死 被诅咒而死 被附身而死 被吸血而死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068269218714522007",
+        "created_at": "2026-06-20T09:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068269218714522007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068269218714522007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌我你就去死。\n跳楼上吊溺亡 窒息 中毒 烧死冻死饿死渴死病死老死累死吓死笑死气死羞死蠢死 蠢到死 被蠢死 丑死 胖死 瘦死 馋死困死憋死疼死痒死麻死酸死胀死抽筋而死 筋疲力尽而死 脱力而死 精神崩溃而死疯掉而死抑郁而死绝望而死心碎而死魂飞魄散而死 被诅咒而死 被附身而死 被吸血而死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 46,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

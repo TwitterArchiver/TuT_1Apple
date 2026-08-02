@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067524942170624000"
+      ],
+      "media_source_tweet_id": [
+        "2067524955185533216"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068079568498626831",
+    "created_at": "2026-06-19T21:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T22:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068079568498626831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031529186360438784",
+          "start": 3,
+          "username": "fznutri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAfvlnPqhp",
+          "end": 66,
+          "expanded_url": "https://x.com/fznutri/status/2067524955185533216/photo/1",
+          "media_key": "3_2067524942170624000",
+          "start": 43,
+          "url": "https://t.co/KAfvlnPqhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068079568498626831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067524955185533216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fznutri: That is the best way to sleep https://t.co/KAfvlnPqhp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2067524942170624000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFS-w5XEAAjj4G.png",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067524942170624000"
+          ],
+          "media_source_tweet_id": [
+            "2067524955185533216"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068079568498626831",
+        "created_at": "2026-06-19T21:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068079568498626831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031529186360438784",
+              "start": 3,
+              "username": "fznutri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAfvlnPqhp",
+              "end": 66,
+              "expanded_url": "https://x.com/fznutri/status/2067524955185533216/photo/1",
+              "media_key": "3_2067524942170624000",
+              "start": 43,
+              "url": "https://t.co/KAfvlnPqhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068079568498626831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067524955185533216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fznutri: That is the best way to sleep https://t.co/KAfvlnPqhp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067524942170624000"
+          ]
+        },
+        "author_id": "2031529186360438784",
+        "conversation_id": "2067524955185533216",
+        "created_at": "2026-06-18T08:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067524955185533216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAfvlnPqhp",
+              "end": 53,
+              "expanded_url": "https://x.com/fznutri/status/2067524955185533216/photo/1",
+              "media_key": "3_2067524942170624000",
+              "start": 30,
+              "url": "https://t.co/KAfvlnPqhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067524955185533216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7784,
+          "impression_count": 1865281,
+          "like_count": 215404,
+          "quote_count": 1305,
+          "reply_count": 100,
+          "retweet_count": 26258
+        },
+        "reply_settings": "everyone",
+        "text": "That is the best way to sleep https://t.co/KAfvlnPqhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 44,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T00:34:43.000Z",
+        "description": "happy to share things",
+        "id": "2031529186360438784",
+        "name": "FZNUTRI",
+        "pinned_tweet_id": "2067524955185533216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062945256430047232/_f91yWv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18087,
+          "following_count": 397,
+          "like_count": 586,
+          "listed_count": 103,
+          "media_count": 972,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "fznutri",
+        "verified": true
+      }
+    ]
+  }
+}

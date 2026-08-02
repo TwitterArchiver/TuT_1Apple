@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068010661284810752"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068010672945000712",
+    "created_at": "2026-06-19T16:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068010672945000712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlP8Kvv78M",
+          "end": 42,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2068010672945000712/photo/1",
+          "media_key": "3_2068010661284810752",
+          "start": 19,
+          "url": "https://t.co/HlP8Kvv78M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068010672945000712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？！！？！？她讲这个大招是幌子！！！ https://t.co/HlP8Kvv78M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2068010661284810752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMMvVmaEAAW5Yf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068010661284810752"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068010672945000712",
+        "created_at": "2026-06-19T16:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068010672945000712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlP8Kvv78M",
+              "end": 42,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2068010672945000712/photo/1",
+              "media_key": "3_2068010661284810752",
+              "start": 19,
+              "url": "https://t.co/HlP8Kvv78M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068010672945000712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？！！？！？她讲这个大招是幌子！！！ https://t.co/HlP8Kvv78M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 43,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

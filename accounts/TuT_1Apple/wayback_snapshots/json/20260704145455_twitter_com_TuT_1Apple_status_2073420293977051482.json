@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2073420293977051482",
+    "created_at": "2026-07-04T14:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073420293977051482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073420293977051482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真想问问太阳和耶稣都要烧死了那预言里的温暖季节到底为什么还没来呢。因为我出生在冬夜吗，所以我生活的环境永远阴冷。希望夜很长很长。希望我有勇气。希望你永远没有勇气。希望我死在这里。希望你不要亡故。希望我没有明天和明天。好自私吧。但是根本没有你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2073420293977051482",
+        "created_at": "2026-07-04T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073420293977051482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073420293977051482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想问问太阳和耶稣都要烧死了那预言里的温暖季节到底为什么还没来呢。因为我出生在冬夜吗，所以我生活的环境永远阴冷。希望夜很长很长。希望我有勇气。希望你永远没有勇气。希望我死在这里。希望你不要亡故。希望我没有明天和明天。好自私吧。但是根本没有你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 56,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

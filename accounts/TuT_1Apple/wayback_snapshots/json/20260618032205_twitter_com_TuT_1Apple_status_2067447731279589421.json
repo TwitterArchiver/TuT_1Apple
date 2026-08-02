@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067262193029337242",
+    "created_at": "2026-06-18T03:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067447731279589421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872242328469229568",
+          "start": 0,
+          "username": "mszshisb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067447731279589421",
+    "in_reply_to_user_id": "1872242328469229568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067446624662741174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mszshisb 我也讨厌我爸谢谢。你也去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067262193029337242",
+        "created_at": "2026-06-18T03:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067447731279589421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872242328469229568",
+              "start": 0,
+              "username": "mszshisb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447731279589421",
+        "in_reply_to_user_id": "1872242328469229568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067446624662741174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mszshisb 我也讨厌我爸谢谢。你也去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872242328469229568",
+        "conversation_id": "2067262193029337242",
+        "created_at": "2026-06-18T03:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067446624662741174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067446624662741174",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067262193029337242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 先把自己爸杀了先，在厌男？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 36,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T11:26:20.000Z",
+        "description": "没人看就当垃圾桶了",
+        "id": "1872242328469229568",
+        "name": "凌",
+        "pinned_tweet_id": "2016046776395170040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872247377266114561/I8F3sr90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 270,
+          "like_count": 5403,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 262
+        },
+        "username": "mszshisb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081055624188850177"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2081055678102421911",
+    "created_at": "2026-07-25T16:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081055678102421911"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "le"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "wlw"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "小猫"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cccyF9tpzb",
+          "end": 43,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2081055678102421911/video/1",
+          "media_key": "13_2081055624188850177",
+          "start": 20,
+          "url": "https://t.co/cccyF9tpzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081055678102421911",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吧唧一口！！！#le #wlw #小猫 https://t.co/cccyF9tpzb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10933,
+        "height": 1280,
+        "media_key": "13_2081055624188850177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081055624188850177/img/Bx316o9pi6h668Ys.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081055624188850177/vid/avc1/320x568/5if3eUirQ9dlM2br.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081055624188850177/vid/avc1/480x852/4lrtb0JJ9Lr1tyyf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081055624188850177/vid/avc1/720x1280/enx9syksToDwM26G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081055624188850177/pl/vJx5_KhxyJfBdcIl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081055624188850177"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2081055678102421911",
+        "created_at": "2026-07-25T16:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081055678102421911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "le"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "wlw"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "小猫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cccyF9tpzb",
+              "end": 43,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2081055678102421911/video/1",
+              "media_key": "13_2081055624188850177",
+              "start": 20,
+              "url": "https://t.co/cccyF9tpzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081055678102421911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吧唧一口！！！#le #wlw #小猫 https://t.co/cccyF9tpzb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 63,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066823697730818289",
+    "created_at": "2026-06-16T18:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066950347206312447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438184749739114498",
+          "start": 0,
+          "username": "Yue_hua_08042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066950347206312447",
+    "in_reply_to_user_id": "1438184749739114498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066949340544061839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_hua_08042 那么是对哪种ptsd呢…回避型？冷暴力？得不到偏爱回应和焦虑？适合独自生活？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066823697730818289",
+        "created_at": "2026-06-16T18:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066950347206312447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438184749739114498",
+              "start": 0,
+              "username": "Yue_hua_08042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066950347206312447",
+        "in_reply_to_user_id": "1438184749739114498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066949340544061839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_hua_08042 那么是对哪种ptsd呢…回避型？冷暴力？得不到偏爱回应和焦虑？适合独自生活？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438184749739114498",
+        "conversation_id": "2066823697730818289",
+        "created_at": "2026-06-16T18:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066949340544061839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066949340544061839",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066948500882133463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 没有矛盾吧，厌烦也说不上吧，她说对恋爱ptsd了🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 34,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T16:55:47.000Z",
+        "description": "坐标广州，超级i人 喜欢我的话和我聊天就能涨亲密度。也可以找我出来玩。爱好是音游，日麻，喜欢听术力口。企鹅群：748844829🥰🥰✈️群：https://t.co/gLbDKXzlSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+xoUpKWQgNrQ3Z…",
+                "end": 93,
+                "expanded_url": "https://t.me/+xoUpKWQgNrQ3ZTc1",
+                "start": 70,
+                "url": "https://t.co/gLbDKXzlSi"
+              }
+            ]
+          }
+        },
+        "id": "1438184749739114498",
+        "location": "广州",
+        "name": "月花子🍥",
+        "pinned_tweet_id": "2039237321560936807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 96,
+          "like_count": 135,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 171
+        },
+        "username": "Yue_hua_08042",
+        "verified": true
+      }
+    ]
+  }
+}

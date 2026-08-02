@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067267432566464831",
+    "created_at": "2026-06-18T02:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067434173938438195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921230445775384582",
+          "start": 0,
+          "username": "chnxn112915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067434173938438195",
+    "in_reply_to_user_id": "1921230445775384582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067434064207094228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnxn112915 不好意思昨晚o大了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067267432566464831",
+        "created_at": "2026-06-18T02:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067434173938438195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921230445775384582",
+              "start": 0,
+              "username": "chnxn112915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067434173938438195",
+        "in_reply_to_user_id": "1921230445775384582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067434064207094228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnxn112915 不好意思昨晚o大了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921230445775384582",
+        "conversation_id": "2067267432566464831",
+        "created_at": "2026-06-18T02:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067434064207094228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067434064207094228",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067416231351861690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 因为你把也打成耶了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 36,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T15:47:08.000Z",
+        "description": "le＞泛当朋友圈发 男的别关注 会查 发点碎碎念 负面情绪重。",
+        "id": "1921230445775384582",
+        "name": "咪咪咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041270030432874496/vsrYd458_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 128,
+          "like_count": 4429,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "chnxn112915",
+        "verified": false
+      }
+    ]
+  }
+}

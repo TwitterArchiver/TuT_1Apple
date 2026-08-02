@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068007267149152699",
+    "created_at": "2026-06-19T16:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068007267149152699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1856229785955172352",
+          "start": 3,
+          "username": "xmeaomao57837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068007267149152699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067849878987030853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xmeaomao57837: 现在一开vpn，国内所有软件跟开了飞行模式一样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068007267149152699",
+        "created_at": "2026-06-19T16:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068007267149152699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1856229785955172352",
+              "start": 3,
+              "username": "xmeaomao57837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068007267149152699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067849878987030853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xmeaomao57837: 现在一开vpn，国内所有软件跟开了飞行模式一样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856229785955172352",
+        "conversation_id": "2067849878987030853",
+        "created_at": "2026-06-19T06:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067849878987030853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067849878987030853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 224594,
+          "like_count": 697,
+          "quote_count": 0,
+          "reply_count": 322,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "现在一开vpn，国内所有软件跟开了飞行模式一样……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 43,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T06:57:59.000Z",
+        "description": "关注猫小小，定居沪，一只爱玩的Jin盆",
+        "id": "1856229785955172352",
+        "name": "猫小小",
+        "pinned_tweet_id": "2065715619119686137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913975297957048320/R6BOuweK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42353,
+          "following_count": 12,
+          "like_count": 4668,
+          "listed_count": 60,
+          "media_count": 256,
+          "tweet_count": 2932
+        },
+        "url": "",
+        "username": "xmeaomao57837",
+        "verified": false
+      }
+    ]
+  }
+}

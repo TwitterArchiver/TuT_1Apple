@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075637096673574912"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075637103925559585",
+    "created_at": "2026-07-10T17:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075637103925559585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qg3N10AhUW",
+          "end": 27,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2075637103925559585/photo/1",
+          "media_key": "3_2075637096673574912",
+          "start": 4,
+          "url": "https://t.co/qg3N10AhUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075637103925559585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双氧。 https://t.co/qg3N10AhUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075637096673574912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4k8TXaAAAwVDB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075637096673574912"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075637103925559585",
+        "created_at": "2026-07-10T17:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075637103925559585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qg3N10AhUW",
+              "end": 27,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2075637103925559585/photo/1",
+              "media_key": "3_2075637096673574912",
+              "start": 4,
+              "url": "https://t.co/qg3N10AhUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075637103925559585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双氧。 https://t.co/qg3N10AhUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 59,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

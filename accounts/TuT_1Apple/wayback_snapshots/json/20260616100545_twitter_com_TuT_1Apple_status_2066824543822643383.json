@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066824543822643383",
+    "created_at": "2026-06-16T10:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066824543822643383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003016213941886976",
+          "start": 3,
+          "username": "_k57g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066824543822643383",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066549984388845906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_k57g: бля почему я не умерла в 2020 от короновируса и мне придётся самой себя убивать в 2026"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066824543822643383",
+        "created_at": "2026-06-16T10:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824543822643383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003016213941886976",
+              "start": 3,
+              "username": "_k57g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824543822643383",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066549984388845906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_k57g: бля почему я не умерла в 2020 от короновируса и мне придётся самой себя убивать в 2026"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003016213941886976",
+        "conversation_id": "2066549984388845906",
+        "created_at": "2026-06-15T15:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066549984388845906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066549984388845906",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 17000,
+          "like_count": 696,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "бля почему я не умерла в 2020 от короновируса и мне придётся самой себя убивать в 2026"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 32,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T08:14:34.000Z",
+        "description": "silly tgirl🏳️‍⚧️| 18 y.o.😆| libertarian🐍 | arch btw😋 | UwU and the like🥰 | me dont know anything else, cant do anything, have nothing to brag about",
+        "id": "2003016213941886976",
+        "location": "Pietari",
+        "name": "k57g🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008273944139137025/tGF4Dz1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 110,
+          "like_count": 2041,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 362
+        },
+        "username": "_k57g",
+        "verified": false
+      }
+    ]
+  }
+}

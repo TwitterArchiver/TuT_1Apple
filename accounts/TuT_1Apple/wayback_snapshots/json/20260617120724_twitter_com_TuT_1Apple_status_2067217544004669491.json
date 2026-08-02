@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066927610618323230",
+    "created_at": "2026-06-17T12:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067217544004669491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1770510468781850624",
+          "start": 0,
+          "username": "owlli7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217544004669491",
+    "in_reply_to_user_id": "1770510468781850624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067212269575172466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owlli7 管我闲事的都死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-17T12:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217544004669491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1770510468781850624",
+              "start": 0,
+              "username": "owlli7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217544004669491",
+        "in_reply_to_user_id": "1770510468781850624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067212269575172466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owlli7 管我闲事的都死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770510468781850624",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-17T11:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067212269575172466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212269575172466",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927610618323230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 笑死我了 都死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 36,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:59:34.000Z",
+        "description": "infp/日记记录",
+        "id": "1770510468781850624",
+        "name": "只只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065106801444708352/kdy4gNae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "username": "owlli7",
+        "verified": false
+      }
+    ]
+  }
+}

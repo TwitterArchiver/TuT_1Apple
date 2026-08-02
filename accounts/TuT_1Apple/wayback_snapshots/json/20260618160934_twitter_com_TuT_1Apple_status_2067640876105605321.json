@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067640841137758208",
+        "3_2067640841162964993",
+        "3_2067640841162964995",
+        "3_2067640841167147008"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067640876105605321",
+    "created_at": "2026-06-18T16:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067640876105605321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4MyjOCvKOk",
+          "end": 30,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+          "media_key": "3_2067640841137758208",
+          "start": 7,
+          "url": "https://t.co/4MyjOCvKOk"
+        },
+        {
+          "display_url": "pic.x.com/4MyjOCvKOk",
+          "end": 30,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+          "media_key": "3_2067640841162964993",
+          "start": 7,
+          "url": "https://t.co/4MyjOCvKOk"
+        },
+        {
+          "display_url": "pic.x.com/4MyjOCvKOk",
+          "end": 30,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+          "media_key": "3_2067640841162964995",
+          "start": 7,
+          "url": "https://t.co/4MyjOCvKOk"
+        },
+        {
+          "display_url": "pic.x.com/4MyjOCvKOk",
+          "end": 30,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+          "media_key": "3_2067640841167147008",
+          "start": 7,
+          "url": "https://t.co/4MyjOCvKOk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067640876105605321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热水教大王。 https://t.co/4MyjOCvKOk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_2067640841137758208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8Y-MbIAAwTMQ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2067640841162964993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8Y-SbwAES46n.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2067640841162964995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8Y-SbwAMM9bn.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2067640841167147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8Y-TbkAAxkmh.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067640841137758208",
+            "3_2067640841162964993",
+            "3_2067640841162964995",
+            "3_2067640841167147008"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067640876105605321",
+        "created_at": "2026-06-18T16:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067640876105605321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MyjOCvKOk",
+              "end": 30,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+              "media_key": "3_2067640841137758208",
+              "start": 7,
+              "url": "https://t.co/4MyjOCvKOk"
+            },
+            {
+              "display_url": "pic.x.com/4MyjOCvKOk",
+              "end": 30,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+              "media_key": "3_2067640841162964993",
+              "start": 7,
+              "url": "https://t.co/4MyjOCvKOk"
+            },
+            {
+              "display_url": "pic.x.com/4MyjOCvKOk",
+              "end": 30,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+              "media_key": "3_2067640841162964995",
+              "start": 7,
+              "url": "https://t.co/4MyjOCvKOk"
+            },
+            {
+              "display_url": "pic.x.com/4MyjOCvKOk",
+              "end": 30,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067640876105605321/photo/1",
+              "media_key": "3_2067640841167147008",
+              "start": 7,
+              "url": "https://t.co/4MyjOCvKOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640876105605321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热水教大王。 https://t.co/4MyjOCvKOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 42,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

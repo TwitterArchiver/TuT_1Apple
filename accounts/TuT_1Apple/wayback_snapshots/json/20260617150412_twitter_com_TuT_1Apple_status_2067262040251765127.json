@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066934904965968292",
+    "created_at": "2026-06-17T15:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067262040251765127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728458498252718080",
+          "start": 0,
+          "username": "xkamonika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067262040251765127",
+    "in_reply_to_user_id": "1728458498252718080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067261607160545675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkamonika 管你贱不贱我就是不喜欢男的咋了，就是恶心这个性别。关你吊事，去死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066934904965968292",
+        "created_at": "2026-06-17T15:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067262040251765127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728458498252718080",
+              "start": 0,
+              "username": "xkamonika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067262040251765127",
+        "in_reply_to_user_id": "1728458498252718080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067261607160545675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkamonika 管你贱不贱我就是不喜欢男的咋了，就是恶心这个性别。关你吊事，去死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728458498252718080",
+        "conversation_id": "2066934904965968292",
+        "created_at": "2026-06-17T15:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067261607160545675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067261607160545675",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066934904965968292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 我一直很奇怪恨男的的女的没发现男的女的都贱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 36,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:00:00.000Z",
+        "description": "",
+        "id": "1728458498252718080",
+        "location": "Hong Kong",
+        "name": "Xka*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871863256454955008/mFuqUzGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "xkamonika",
+        "verified": false
+      }
+    ]
+  }
+}

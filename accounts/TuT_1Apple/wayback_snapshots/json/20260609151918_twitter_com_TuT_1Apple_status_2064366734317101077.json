@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2064228941377032252",
+    "created_at": "2026-06-09T15:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064366734317101077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063376312350482432",
+          "start": 0,
+          "username": "gyggyvvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064366734317101077",
+    "in_reply_to_user_id": "2063376312350482432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064298194977341908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyggyvvh 别轻易劝别人，即使你的出发点是好的但还是可能会让人反感。尤其是在你什么都不了解的前提下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2064228941377032252",
+        "created_at": "2026-06-09T15:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064366734317101077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063376312350482432",
+              "start": 0,
+              "username": "gyggyvvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064366734317101077",
+        "in_reply_to_user_id": "2063376312350482432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298194977341908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyggyvvh 别轻易劝别人，即使你的出发点是好的但还是可能会让人反感。尤其是在你什么都不了解的前提下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063376312350482432",
+        "conversation_id": "2064228941377032252",
+        "created_at": "2026-06-09T10:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064298194977341908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064298194977341908",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064228941377032252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 这世界本身就跟你没关系，死了也没啥，但你切记，你的家人还有朋友都希望你好好的，别让自己太焦虑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 19,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T21:45:58.000Z",
+        "description": "摆烂",
+        "id": "2063376312350482432",
+        "location": "中华人民共和国，广西",
+        "name": "我活到头了？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855622144356352/3_FZ6Z2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 42,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 154
+        },
+        "username": "gyggyvvh",
+        "verified": false
+      }
+    ]
+  }
+}

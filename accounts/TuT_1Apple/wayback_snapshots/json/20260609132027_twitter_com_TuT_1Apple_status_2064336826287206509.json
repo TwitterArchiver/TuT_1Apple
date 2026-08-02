@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2064336826287206509",
+    "created_at": "2026-06-09T13:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064336826287206509"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064336826287206509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有精神病是很可怕和痛苦的。我大部分时间都极力证明我不一样，不是我想不一样，而是大家想的让我变得一样会让我太累太累甚至会让我更深的意识到自己不一样而激发躁狂…大部分人都有点精神不正常和真的精神病不能划等号。不是说哭哭闹闹经常难过就没了的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2064336826287206509",
+        "created_at": "2026-06-09T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064336826287206509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064336826287206509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有精神病是很可怕和痛苦的。我大部分时间都极力证明我不一样，不是我想不一样，而是大家想的让我变得一样会让我太累太累甚至会让我更深的意识到自己不一样而激发躁狂…大部分人都有点精神不正常和真的精神病不能划等号。不是说哭哭闹闹经常难过就没了的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 19,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

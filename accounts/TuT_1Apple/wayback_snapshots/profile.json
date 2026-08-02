@@ -1,0 +1,20 @@
+{
+  "name": "薄荷紙2.0",
+  "username": "@TuT_1Apple",
+  "bio": "le 0.01｜双相重焦OD｜不约不聊不加 防炸/雪兔：@QwQ_1Apple",
+  "location": "我的心为恐惧和欲望而跳动",
+  "link": "https://ngl.link/apple95448",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 39,
+        "start": 28,
+        "username": "QwQ_1Apple"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
+}

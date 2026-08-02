@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083390882599084032"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2083390891067355500",
+    "created_at": "2026-08-01T03:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083390891067355500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p01RzQ9Hkf",
+          "end": 67,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2083390891067355500/photo/1",
+          "media_key": "3_2083390882599084032",
+          "start": 44,
+          "url": "https://t.co/p01RzQ9Hkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083390891067355500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常谢谢你喜欢我ww谢谢你的钱有点多呀！抱歉呀目前身边有人没有任何联系方式🥺🥺❤️🥺🥺 https://t.co/p01RzQ9Hkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2083390882599084032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmw-C2bIAAhPcO.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083390882599084032"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2083390891067355500",
+        "created_at": "2026-08-01T03:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083390891067355500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p01RzQ9Hkf",
+              "end": 67,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2083390891067355500/photo/1",
+              "media_key": "3_2083390882599084032",
+              "start": 44,
+              "url": "https://t.co/p01RzQ9Hkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083390891067355500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常谢谢你喜欢我ww谢谢你的钱有点多呀！抱歉呀目前身边有人没有任何联系方式🥺🥺❤️🥺🥺 https://t.co/p01RzQ9Hkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 61,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

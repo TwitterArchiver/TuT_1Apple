@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066851165950951492",
+    "created_at": "2026-06-17T15:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067271242084925873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915159293336444929",
+          "start": 0,
+          "username": "nngmngsh112092"
+        },
+        {
+          "end": 23,
+          "id": "1867797136437653505",
+          "start": 16,
+          "username": "vvbls_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067271242084925873",
+    "in_reply_to_user_id": "1915159293336444929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067270727884243449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nngmngsh112092 @vvbls_ 这家伙到底在说什么呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066851165950951492",
+        "created_at": "2026-06-17T15:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067271242084925873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915159293336444929",
+              "start": 0,
+              "username": "nngmngsh112092"
+            },
+            {
+              "end": 23,
+              "id": "1867797136437653505",
+              "start": 16,
+              "username": "vvbls_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067271242084925873",
+        "in_reply_to_user_id": "1915159293336444929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067270727884243449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nngmngsh112092 @vvbls_ 这家伙到底在说什么呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915159293336444929",
+        "conversation_id": "2066851165950951492",
+        "created_at": "2026-06-17T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270727884243449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867797136437653505",
+              "start": 0,
+              "username": "vvbls_"
+            },
+            {
+              "end": 19,
+              "id": "2047631836864483328",
+              "start": 8,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270727884243449",
+        "in_reply_to_user_id": "1867797136437653505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066995753621520519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvbls_ @TuT_1Apple 这家伙到底在说什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 36,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T21:42:30.000Z",
+        "description": "！😼",
+        "id": "1915159293336444929",
+        "name": "柠檬鲨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915167312073940992/fg8incR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "nngmngsh112092",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T05:02:18.000Z",
+        "description": "les｜h｜05｜土象｜男的别关注我/我只是一个爱在推上说骚话看女同性恋的小女孩啊。我肚脐眼是圆的是二本是纯棉高腰内裤是儿童手指是长发是m。女孩子们来找我玩好不好🥺",
+        "id": "1867797136437653505",
+        "name": "ㅇㅅㅇ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015847694531756032/9FZdLlSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 97,
+          "like_count": 4080,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 389
+        },
+        "username": "vvbls_",
+        "verified": false
+      }
+    ]
+  }
+}

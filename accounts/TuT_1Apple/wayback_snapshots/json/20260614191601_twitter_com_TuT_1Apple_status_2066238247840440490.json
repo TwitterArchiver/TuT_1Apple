@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066238247840440490",
+    "created_at": "2026-06-14T19:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066238247840440490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066238247840440490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 729
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066074088913920366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 自殺を成功させている人が羨ましい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066238247840440490",
+        "created_at": "2026-06-14T19:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066238247840440490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066238247840440490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 729
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066074088913920366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 自殺を成功させている人が羨ましい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2066074088913920366",
+        "created_at": "2026-06-14T08:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066074088913920366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066074088913920366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 43170,
+          "like_count": 2965,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 729
+        },
+        "reply_settings": "everyone",
+        "text": "自殺を成功させている人が羨ましい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 29,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 215,
+          "like_count": 9281,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 1183
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

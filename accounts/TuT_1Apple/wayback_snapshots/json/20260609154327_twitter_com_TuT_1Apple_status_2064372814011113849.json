@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2064372814011113849",
+    "created_at": "2026-06-09T15:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064372814011113849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858042250158358528",
+          "start": 3,
+          "username": "zxy1473129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064372814011113849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054619310862320041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zxy1473129: 有时候不知道是压抑还是什么，我就感觉很孤独，没有人给我报备在做什么，我也没有可以报备的人，没有人会跟我说吃饭了吗？我也找不到人回答，醒了还是睡了也没人说，每天醒来收不到一堆游戏自己发的一堆消息也是没人理，更没有人会想我，而我也不知道在想谁，每天每…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2064372814011113849",
+        "created_at": "2026-06-09T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064372814011113849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858042250158358528",
+              "start": 3,
+              "username": "zxy1473129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064372814011113849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054619310862320041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zxy1473129: 有时候不知道是压抑还是什么，我就感觉很孤独，没有人给我报备在做什么，我也没有可以报备的人，没有人会跟我说吃饭了吗？我也找不到人回答，醒了还是睡了也没人说，每天醒来收不到一堆游戏自己发的一堆消息也是没人理，更没有人会想我，而我也不知道在想谁，每天每…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858042250158358528",
+        "conversation_id": "2054619310862320041",
+        "created_at": "2026-05-13T17:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054619310862320041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054619310862320041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18116,
+          "like_count": 257,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "有时候不知道是压抑还是什么，我就感觉很孤独，没有人给我报备在做什么，我也没有可以报备的人，没有人会跟我说吃饭了吗？我也找不到人回答，醒了还是睡了也没人说，每天醒来收不到一堆游戏自己发的一堆消息也是没人理，更没有人会想我，而我也不知道在想谁，每天每天都很空虚，我只是想有人陪我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 19,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:59:36.000Z",
+        "description": "|07|🚪随缘|纯吐槽|怨气很大|绿色玩家|\n期待特别特别多女宝找我玩！\n（骚扰我骂你全家你就受着吧）",
+        "id": "1858042250158358528",
+        "location": "神仙国",
+        "name": "Ruruuuuu",
+        "pinned_tweet_id": "2057875576309088404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063936191641374720/UbbiBwo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 31,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 285
+        },
+        "username": "zxy1473129",
+        "verified": false
+      }
+    ]
+  }
+}

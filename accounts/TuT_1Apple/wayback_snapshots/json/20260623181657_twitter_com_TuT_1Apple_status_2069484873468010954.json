@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2069420506210779285",
+    "created_at": "2026-06-23T18:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069484873468010954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736048350695198720",
+          "start": 0,
+          "username": "zhuz45263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069484873468010954",
+    "in_reply_to_user_id": "1736048350695198720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069484416964120611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuz45263 知道啦^ω^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2069420506210779285",
+        "created_at": "2026-06-23T18:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069484873468010954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736048350695198720",
+              "start": 0,
+              "username": "zhuz45263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069484873468010954",
+        "in_reply_to_user_id": "1736048350695198720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069484416964120611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuz45263 知道啦^ω^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736048350695198720",
+        "conversation_id": "2069420506210779285",
+        "created_at": "2026-06-23T18:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069484416964120611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069484416964120611",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069483960149876999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 那也要小心啊，葡萄冻冻大王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 49,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T15:39:44.000Z",
+        "description": "只是一个steam和舞萌玩家，想聊天的可随时私信，看见了会回",
+        "id": "1736048350695198720",
+        "location": "神圣泰拉",
+        "name": "白夜流转",
+        "pinned_tweet_id": "2025945496590979135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025855572118228993/0m6kIpDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "zhuz45263",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068957550863876096"
+      ],
+      "media_source_tweet_id": [
+        "2068957558107509080"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2069377055935058259",
+    "created_at": "2026-06-23T11:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069377055935058259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbq2kPGWu9",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2068957558107509080/photo/1",
+          "media_key": "3_2068957550863876096",
+          "start": 11,
+          "url": "https://t.co/wbq2kPGWu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069377055935058259",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068957558107509080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/wbq2kPGWu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2068957550863876096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZp7kKagAAP4wc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068957550863876096"
+          ],
+          "media_source_tweet_id": [
+            "2068957558107509080"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2069377055935058259",
+        "created_at": "2026-06-23T11:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069377055935058259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbq2kPGWu9",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2068957558107509080/photo/1",
+              "media_key": "3_2068957550863876096",
+              "start": 11,
+              "url": "https://t.co/wbq2kPGWu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069377055935058259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068957558107509080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/wbq2kPGWu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068957550863876096"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2068957558107509080",
+        "created_at": "2026-06-22T07:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068957558107509080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbq2kPGWu9",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2068957558107509080/photo/1",
+              "media_key": "3_2068957550863876096",
+              "start": 0,
+              "url": "https://t.co/wbq2kPGWu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068957558107509080",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 29233,
+          "like_count": 2060,
+          "quote_count": 13,
+          "reply_count": 25,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wbq2kPGWu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 49,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97539,
+          "following_count": 2438,
+          "like_count": 44955,
+          "listed_count": 142,
+          "media_count": 4437,
+          "tweet_count": 8849
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

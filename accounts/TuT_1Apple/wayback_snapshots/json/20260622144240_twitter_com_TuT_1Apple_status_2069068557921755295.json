@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069067951022694400",
+        "3_2069067951039483904",
+        "3_2069067951043739648",
+        "3_2069067951022723072"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2062692037993054577",
+    "created_at": "2026-06-22T14:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069068557921755295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsk2O6S8QU",
+          "end": 29,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+          "media_key": "3_2069067951022694400",
+          "start": 6,
+          "url": "https://t.co/bsk2O6S8QU"
+        },
+        {
+          "display_url": "pic.x.com/bsk2O6S8QU",
+          "end": 29,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+          "media_key": "3_2069067951039483904",
+          "start": 6,
+          "url": "https://t.co/bsk2O6S8QU"
+        },
+        {
+          "display_url": "pic.x.com/bsk2O6S8QU",
+          "end": 29,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+          "media_key": "3_2069067951043739648",
+          "start": 6,
+          "url": "https://t.co/bsk2O6S8QU"
+        },
+        {
+          "display_url": "pic.x.com/bsk2O6S8QU",
+          "end": 29,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+          "media_key": "3_2069067951022723072",
+          "start": 6,
+          "url": "https://t.co/bsk2O6S8QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069068557921755295",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062692037993054577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整合一下？ https://t.co/bsk2O6S8QU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2713,
+        "media_key": "3_2069067951022694400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOVszaYAASpV9.jpg",
+        "width": 3618
+      },
+      {
+        "height": 2713,
+        "media_key": "3_2069067951039483904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOVs3akAAUJvO.jpg",
+        "width": 3618
+      },
+      {
+        "height": 2713,
+        "media_key": "3_2069067951043739648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOVs4bgAAOqNr.jpg",
+        "width": 3618
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069067951022723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOVsza0AATuFr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069067951022694400",
+            "3_2069067951039483904",
+            "3_2069067951043739648",
+            "3_2069067951022723072"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2062692037993054577",
+        "created_at": "2026-06-22T14:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069068557921755295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsk2O6S8QU",
+              "end": 29,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+              "media_key": "3_2069067951022694400",
+              "start": 6,
+              "url": "https://t.co/bsk2O6S8QU"
+            },
+            {
+              "display_url": "pic.x.com/bsk2O6S8QU",
+              "end": 29,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+              "media_key": "3_2069067951039483904",
+              "start": 6,
+              "url": "https://t.co/bsk2O6S8QU"
+            },
+            {
+              "display_url": "pic.x.com/bsk2O6S8QU",
+              "end": 29,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+              "media_key": "3_2069067951043739648",
+              "start": 6,
+              "url": "https://t.co/bsk2O6S8QU"
+            },
+            {
+              "display_url": "pic.x.com/bsk2O6S8QU",
+              "end": 29,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2069068557921755295/photo/1",
+              "media_key": "3_2069067951022723072",
+              "start": 6,
+              "url": "https://t.co/bsk2O6S8QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069068557921755295",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062692037993054577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整合一下？ https://t.co/bsk2O6S8QU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2062692037993054577",
+        "created_at": "2026-06-05T00:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062692037993054577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062692037993054577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13121,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条放问答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 46,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067616266358267904"
+      ],
+      "media_source_tweet_id": [
+        "2067616304815845424"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2072762077366956498",
+    "created_at": "2026-07-02T19:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072762077366956498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631836864483328",
+          "start": 3,
+          "username": "TuT_1Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NuCjjJWn3S",
+          "end": 56,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067616304815845424/photo/1",
+          "media_key": "3_2067616266358267904",
+          "start": 33,
+          "url": "https://t.co/NuCjjJWn3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072762077366956498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067616304815845424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuT_1Apple: 孩子你是不是想开那个普瑞巴林呀？ https://t.co/NuCjjJWn3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067616266358267904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGmCiAaoAAxmNx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067616266358267904"
+          ],
+          "media_source_tweet_id": [
+            "2067616304815845424"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2072762077366956498",
+        "created_at": "2026-07-02T19:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072762077366956498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631836864483328",
+              "start": 3,
+              "username": "TuT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuCjjJWn3S",
+              "end": 56,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067616304815845424/photo/1",
+              "media_key": "3_2067616266358267904",
+              "start": 33,
+              "url": "https://t.co/NuCjjJWn3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072762077366956498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067616304815845424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuT_1Apple: 孩子你是不是想开那个普瑞巴林呀？ https://t.co/NuCjjJWn3S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067616266358267904"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067616304815845424",
+        "created_at": "2026-06-18T14:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067616304815845424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuCjjJWn3S",
+              "end": 40,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067616304815845424/photo/1",
+              "media_key": "3_2067616266358267904",
+              "start": 17,
+              "url": "https://t.co/NuCjjJWn3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067616304815845424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4449,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "孩子你是不是想开那个普瑞巴林呀？ https://t.co/NuCjjJWn3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 56,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

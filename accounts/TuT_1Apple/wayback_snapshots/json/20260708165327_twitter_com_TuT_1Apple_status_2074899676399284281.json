@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2074314033327698127",
+    "created_at": "2026-07-08T16:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074899676399284281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922574083348414464",
+          "start": 0,
+          "username": "7q46843886669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074899676399284281",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074314033327698127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7q46843886669 窝去窝去我就说怎么找不到你了！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2074313976943607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlxkmRaAAAcieu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074313977270845440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlxknfbQAA3nAe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074313978021654528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlxkqSbsAAJBoF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2074314033327698127",
+        "created_at": "2026-07-08T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074899676399284281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074899676399284281",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074314033327698127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 窝去窝去我就说怎么找不到你了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074313976943607808",
+            "3_2074313977270845440",
+            "3_2074313978021654528"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2074314033327698127",
+        "created_at": "2026-07-07T02:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074314033327698127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kIcAzKz2C",
+              "end": 97,
+              "expanded_url": "https://x.com/7q46843886669/status/2074314033327698127/photo/1",
+              "media_key": "3_2074313976943607808",
+              "start": 74,
+              "url": "https://t.co/1kIcAzKz2C"
+            },
+            {
+              "display_url": "pic.x.com/1kIcAzKz2C",
+              "end": 97,
+              "expanded_url": "https://x.com/7q46843886669/status/2074314033327698127/photo/1",
+              "media_key": "3_2074313977270845440",
+              "start": 74,
+              "url": "https://t.co/1kIcAzKz2C"
+            },
+            {
+              "display_url": "pic.x.com/1kIcAzKz2C",
+              "end": 97,
+              "expanded_url": "https://x.com/7q46843886669/status/2074314033327698127/photo/1",
+              "media_key": "3_2074313978021654528",
+              "start": 74,
+              "url": "https://t.co/1kIcAzKz2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074314033327698127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操大家 好 我是操蛋 我奪舍一下嗯對事情就是 我他媽剛開一天的號又要死一段時間了。他媽的為啥我就是被追著殺。氣尿了。。。。。。。。。。。。。。。 https://t.co/1kIcAzKz2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 56,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n@QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 3398,
+          "like_count": 20586,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 5414
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

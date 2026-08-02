@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066183258799570944"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066183268123475987",
+    "created_at": "2026-06-14T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066183268123475987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqOnindyHQ",
+          "end": 42,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2066183268123475987/photo/1",
+          "media_key": "3_2066183258799570944",
+          "start": 19,
+          "url": "https://t.co/lqOnindyHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066183268123475987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥嚎！你是谁呀谢谢你大好人…🥺🥺🥺🥺 https://t.co/lqOnindyHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2066183258799570944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyOug2bgAAvbI0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066183258799570944"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066183268123475987",
+        "created_at": "2026-06-14T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066183268123475987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqOnindyHQ",
+              "end": 42,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2066183268123475987/photo/1",
+              "media_key": "3_2066183258799570944",
+              "start": 19,
+              "url": "https://t.co/lqOnindyHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066183268123475987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎！你是谁呀谢谢你大好人…🥺🥺🥺🥺 https://t.co/lqOnindyHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 28,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

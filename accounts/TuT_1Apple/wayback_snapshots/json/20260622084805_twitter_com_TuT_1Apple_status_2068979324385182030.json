@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068979310539792384"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068979324385182030",
+    "created_at": "2026-06-22T08:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068979324385182030"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSQBIV5kEb",
+          "end": 35,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2068979324385182030/photo/1",
+          "media_key": "3_2068979310539792384",
+          "start": 12,
+          "url": "https://t.co/DSQBIV5kEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068979324385182030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈ootd？#les https://t.co/DSQBIV5kEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3824,
+        "media_key": "3_2068979310539792384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ9uJRbYAA0aP_.jpg",
+        "width": 2288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068979310539792384"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068979324385182030",
+        "created_at": "2026-06-22T08:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068979324385182030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSQBIV5kEb",
+              "end": 35,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2068979324385182030/photo/1",
+              "media_key": "3_2068979310539792384",
+              "start": 12,
+              "url": "https://t.co/DSQBIV5kEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068979324385182030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈ootd？#les https://t.co/DSQBIV5kEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 46,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

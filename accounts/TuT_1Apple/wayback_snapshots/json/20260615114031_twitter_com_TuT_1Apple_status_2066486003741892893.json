@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066484646322589846",
+    "created_at": "2026-06-15T11:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066486003741892893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899793719530008576",
+          "start": 0,
+          "username": "propeller24731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066486003741892893",
+    "in_reply_to_user_id": "1899793719530008576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066484646322589846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@propeller24731 下不去手就是我不学医的原因之一。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066484646322589846",
+        "created_at": "2026-06-15T11:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066486003741892893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899793719530008576",
+              "start": 0,
+              "username": "propeller24731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066486003741892893",
+        "in_reply_to_user_id": "1899793719530008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066484646322589846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@propeller24731 下不去手就是我不学医的原因之一。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899793719530008576",
+        "conversation_id": "2066484646322589846",
+        "created_at": "2026-06-15T11:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066484646322589846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066484646322589846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午梦见第一次解剖的一只兔子，记得是气管插管术，老师在台上放图片讲解操作，小组成员当时还很害怕，于是我主动拿起手术刀。那么小的一只兔子，组员说也想试试，我拿起止血钳帮忙分离肌肉，但刀尖一偏，血至少飙了半米高。戴着眼镜，血落到我脸上，顺着往下流，温温热热，白大褂一半都是血。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 31,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T12:06:03.000Z",
+        "description": "🌈les | 喜欢小猫，有点养胃，服务意识强，m1t（？），intj | 男的骚扰的话你金针菇烂了，出门被车撞死",
+        "id": "1899793719530008576",
+        "name": "十一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065485263682633728/Bg6lLLU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "propeller24731",
+        "verified": false
+      }
+    ]
+  }
+}

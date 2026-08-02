@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2065102735381500409",
+    "created_at": "2026-06-11T16:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065102735381500409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061812899098873856",
+          "start": 3,
+          "username": "QwQ_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065102735381500409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065102587398164514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QwQ_1Apple: 如果我攒够三千次我想死，我会自杀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2065102735381500409",
+        "created_at": "2026-06-11T16:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065102735381500409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061812899098873856",
+              "start": 3,
+              "username": "QwQ_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065102735381500409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065102587398164514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QwQ_1Apple: 如果我攒够三千次我想死，我会自杀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061812899098873856",
+        "conversation_id": "2065102587398164514",
+        "created_at": "2026-06-11T16:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065102587398164514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065102587398164514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果我攒够三千次我想死，我会自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 21,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T14:14:15.000Z",
+        "description": "这里只有风。",
+        "id": "2061812899098873856",
+        "name": "拥抱我世界的孤影",
+        "pinned_tweet_id": "2064351591130685683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324262517981184/b43zPY-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "QwQ_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

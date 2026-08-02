@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066182889562320986",
+    "created_at": "2026-06-14T16:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066195373354590687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494001415030964225",
+          "start": 0,
+          "username": "KillHypocricy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066195373354590687",
+    "in_reply_to_user_id": "1494001415030964225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066183879107740059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillHypocricy 我要蘸红糖！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066182889562320986",
+        "created_at": "2026-06-14T16:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066195373354590687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494001415030964225",
+              "start": 0,
+              "username": "KillHypocricy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195373354590687",
+        "in_reply_to_user_id": "1494001415030964225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066183879107740059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillHypocricy 我要蘸红糖！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494001415030964225",
+        "conversation_id": "2066182889562320986",
+        "created_at": "2026-06-14T15:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066183879107740059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066183879107740059",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066182889562320986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 蘸点白糖吃了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 28,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T17:31:17.000Z",
+        "description": "很不高兴为你服务：https://t.co/hcwlLsvcF6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaomiaomimi",
+                "end": 32,
+                "expanded_url": "https://ngl.link/miaomiaomimi",
+                "start": 9,
+                "url": "https://t.co/hcwlLsvcF6"
+              }
+            ]
+          }
+        },
+        "id": "1494001415030964225",
+        "name": "珀忒頭",
+        "pinned_tweet_id": "2061666537740849436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042614862740885512/ARqQa0-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 162,
+          "like_count": 19128,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2264
+        },
+        "username": "KillHypocricy",
+        "verified": false
+      }
+    ]
+  }
+}

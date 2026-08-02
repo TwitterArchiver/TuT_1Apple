@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067551963324252445",
+    "created_at": "2026-06-18T10:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067551963324252445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1769283365990273024",
+          "start": 3,
+          "username": "j8au7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067551963324252445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067238515981812161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j8au7h: 今年の目標:自殺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067551963324252445",
+        "created_at": "2026-06-18T10:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067551963324252445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1769283365990273024",
+              "start": 3,
+              "username": "j8au7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067551963324252445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067238515981812161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j8au7h: 今年の目標:自殺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769283365990273024",
+        "conversation_id": "2067238515981812161",
+        "created_at": "2026-06-17T13:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067238515981812161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067238515981812161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 27817,
+          "like_count": 1771,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "今年の目標:自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 39,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T08:43:34.000Z",
+        "description": "🚺/ljc / 👊🏻🩸/顔面コンプ/不登校/夢女/zeta民/同界隈フォロバ",
+        "id": "1769283365990273024",
+        "location": "初手タメ大歓迎❣️",
+        "name": "え？笑",
+        "pinned_tweet_id": "2066651942819188946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058506260300107776/2NGUy9AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 537,
+          "like_count": 10568,
+          "listed_count": 14,
+          "media_count": 43,
+          "tweet_count": 724
+        },
+        "username": "j8au7h",
+        "verified": false
+      }
+    ]
+  }
+}

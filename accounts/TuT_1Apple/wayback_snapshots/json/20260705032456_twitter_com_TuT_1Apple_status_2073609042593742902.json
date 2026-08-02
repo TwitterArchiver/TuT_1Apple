@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2073609042593742902",
+    "created_at": "2026-07-05T03:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073609042593742902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tut_1apple/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/tut_1apple/status/2073302604398915714",
+          "start": 23,
+          "url": "https://t.co/NnyNW9OVq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073609042593742902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073302604398915714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一觉醒来还是好绝望。好想清空脑袋里的所有后台 https://t.co/NnyNW9OVq2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2073609042593742902",
+        "created_at": "2026-07-05T03:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073609042593742902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tut_1apple/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/tut_1apple/status/2073302604398915714",
+              "start": 23,
+              "url": "https://t.co/NnyNW9OVq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073609042593742902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073302604398915714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一觉醒来还是好绝望。好想清空脑袋里的所有后台 https://t.co/NnyNW9OVq2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2073302604398915714",
+        "created_at": "2026-07-04T07:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073302604398915714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073302604398915714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在此宣布焦虑+郁期开始。刚刚极度想自残中可惜在外面我想念脑袋空空的感觉啊啊啊啊啊能停下不 感觉在我脑子里闹翻天了什么压下去的落灰的想法都出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 55,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

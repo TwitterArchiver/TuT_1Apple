@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2073273912129896496",
+    "created_at": "2026-07-04T05:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073273912129896496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiujingde953/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xiujingde953/status/2072859082055463116",
+          "start": 8,
+          "url": "https://t.co/76QdtbnA74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073273912129896496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072859082055463116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是自己的错吧 https://t.co/76QdtbnA74"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2073273912129896496",
+        "created_at": "2026-07-04T05:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073273912129896496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiujingde953/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiujingde953/status/2072859082055463116",
+              "start": 8,
+              "url": "https://t.co/76QdtbnA74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073273912129896496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072859082055463116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是自己的错吧 https://t.co/76QdtbnA74"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2072859082055463116",
+        "created_at": "2026-07-03T01:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072859082055463116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072859082055463116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 41031,
+          "like_count": 661,
+          "quote_count": 10,
+          "reply_count": 83,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "我见过自己说过最恶心的话就是“你不是答应好我的吗”和“我们不是说好了xxxx的吗”这两句，恶没恶心到对面我不知道，但说出这两句话的时候我感觉自己贱的不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 56,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 81,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

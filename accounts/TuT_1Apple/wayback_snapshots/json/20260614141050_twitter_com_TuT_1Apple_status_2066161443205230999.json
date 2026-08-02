@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2065858735189414364",
+    "created_at": "2026-06-14T14:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066161443205230999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494001415030964225",
+          "start": 0,
+          "username": "KillHypocricy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161443205230999",
+    "in_reply_to_user_id": "1494001415030964225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065858735189414364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillHypocricy 我吃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_2065858727597764609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtnkT6a8AEwots.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2065858735189414364",
+        "created_at": "2026-06-14T14:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066161443205230999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494001415030964225",
+              "start": 0,
+              "username": "KillHypocricy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161443205230999",
+        "in_reply_to_user_id": "1494001415030964225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065858735189414364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillHypocricy 我吃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065858727597764609"
+          ]
+        },
+        "author_id": "1494001415030964225",
+        "conversation_id": "2065858735189414364",
+        "created_at": "2026-06-13T18:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065858735189414364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "wlw"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1enAdyljj",
+              "end": 44,
+              "expanded_url": "https://x.com/KillHypocricy/status/2065858735189414364/photo/1",
+              "media_key": "3_2065858727597764609",
+              "start": 21,
+              "url": "https://t.co/o1enAdyljj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065858735189414364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2396,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "揪你逼毛。#女同性恋 #wlw #les https://t.co/o1enAdyljj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 28,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T17:31:17.000Z",
+        "description": "很不高兴为你服务：https://t.co/hcwlLsvcF6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaomiaomimi",
+                "end": 32,
+                "expanded_url": "https://ngl.link/miaomiaomimi",
+                "start": 9,
+                "url": "https://t.co/hcwlLsvcF6"
+              }
+            ]
+          }
+        },
+        "id": "1494001415030964225",
+        "name": "珀忒頭",
+        "pinned_tweet_id": "2061666537740849436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042614862740885512/ARqQa0-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 162,
+          "like_count": 19112,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2261
+        },
+        "username": "KillHypocricy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066909577942376448"
+      ],
+      "media_source_tweet_id": [
+        "2066909601182933158"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068074224078786927",
+    "created_at": "2026-06-19T20:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068074224078786927"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "les"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "wlw"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "短发p世一萌"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631836864483328",
+          "start": 3,
+          "username": "TuT_1Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZ2k3vZ0mu",
+          "end": 60,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2066909601182933158/photo/1",
+          "media_key": "3_2066909577942376448",
+          "start": 37,
+          "url": "https://t.co/UZ2k3vZ0mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068074224078786927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066909601182933158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuT_1Apple: 萌！？#les #wlw #短发p世一萌 https://t.co/UZ2k3vZ0mu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2066909577942376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8jT2gboAAgYMo.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066909577942376448"
+          ],
+          "media_source_tweet_id": [
+            "2066909601182933158"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068074224078786927",
+        "created_at": "2026-06-19T20:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068074224078786927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "les"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "wlw"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "短发p世一萌"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631836864483328",
+              "start": 3,
+              "username": "TuT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZ2k3vZ0mu",
+              "end": 60,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2066909601182933158/photo/1",
+              "media_key": "3_2066909577942376448",
+              "start": 37,
+              "url": "https://t.co/UZ2k3vZ0mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068074224078786927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909601182933158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuT_1Apple: 萌！？#les #wlw #短发p世一萌 https://t.co/UZ2k3vZ0mu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066909577942376448"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066909601182933158",
+        "created_at": "2026-06-16T15:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066909601182933158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "les"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "wlw"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "短发p世一萌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZ2k3vZ0mu",
+              "end": 44,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2066909601182933158/photo/1",
+              "media_key": "3_2066909577942376448",
+              "start": 21,
+              "url": "https://t.co/UZ2k3vZ0mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909601182933158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3196,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌！？#les #wlw #短发p世一萌 https://t.co/UZ2k3vZ0mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 44,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

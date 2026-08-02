@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2069059126643323084",
+    "created_at": "2026-06-22T14:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069059126643323084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578837160773533697",
+          "start": 3,
+          "username": "lloronnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069059126643323084",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2521
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066408738894815469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lloronnna: le tengo envidia a las personas que han logrado suicidarse"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2069059126643323084",
+        "created_at": "2026-06-22T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069059126643323084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578837160773533697",
+              "start": 3,
+              "username": "lloronnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069059126643323084",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2521
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066408738894815469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lloronnna: le tengo envidia a las personas que han logrado suicidarse"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578837160773533697",
+        "conversation_id": "2066408738894815469",
+        "created_at": "2026-06-15T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066408738894815469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066408738894815469",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 126812,
+          "like_count": 9035,
+          "quote_count": 34,
+          "reply_count": 35,
+          "retweet_count": 2521
+        },
+        "reply_settings": "everyone",
+        "text": "le tengo envidia a las personas que han logrado suicidarse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 46,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T19:58:16.000Z",
+        "description": "uwu",
+        "id": "1578837160773533697",
+        "location": "    ‍‍‍‍‍ ‍‍‍‍‍ ‍‍‍‍‍ ‍‍‍‍‍",
+        "name": "ela",
+        "pinned_tweet_id": "2067732636756246561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067482035648659457/73Yi_sj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 0,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "lloronnna",
+        "verified": false
+      }
+    ]
+  }
+}

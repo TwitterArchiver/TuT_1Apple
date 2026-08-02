@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063936645372821505"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2063936708853608498",
+    "created_at": "2026-06-08T10:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063936708853608498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxY7u4HiyA",
+          "end": 33,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2063936708853608498/video/1",
+          "media_key": "13_2063936645372821505",
+          "start": 10,
+          "url": "https://t.co/LxY7u4HiyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063936708853608498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长发时期。#les https://t.co/LxY7u4HiyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7452,
+        "height": 1280,
+        "media_key": "13_2063936645372821505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063936645372821505/img/jJxjWKlV9vpQmH6z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063936645372821505/vid/avc1/320x568/S7iGQPlczknvHbwR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063936645372821505/vid/avc1/480x852/c3xP3YGQcBfKgdIA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063936645372821505/vid/avc1/720x1280/XDTp8tDPmZ3Gvizz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063936645372821505/pl/20Y8lc2e6RX_V_oR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063936645372821505"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2063936708853608498",
+        "created_at": "2026-06-08T10:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063936708853608498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxY7u4HiyA",
+              "end": 33,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2063936708853608498/video/1",
+              "media_key": "13_2063936645372821505",
+              "start": 10,
+              "url": "https://t.co/LxY7u4HiyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063936708853608498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长发时期。#les https://t.co/LxY7u4HiyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸or雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 16,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

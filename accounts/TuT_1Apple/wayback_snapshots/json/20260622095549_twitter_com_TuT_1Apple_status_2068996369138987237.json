@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068996220438360064"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068996369138987237",
+    "created_at": "2026-06-22T09:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068996369138987237"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 3,
+          "tag": "les"
+        },
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "wlw"
+        },
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "自慰实录"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a4HO4uucmx",
+          "end": 43,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2068996369138987237/video/1",
+          "media_key": "13_2068996220438360064",
+          "start": 20,
+          "url": "https://t.co/a4HO4uucmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068996369138987237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哼哼…#les  #wlw #自慰实录 https://t.co/a4HO4uucmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124900,
+        "height": 372,
+        "media_key": "13_2068996220438360064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068996220438360064/img/S6NiCe7qpQlh_mZR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068996220438360064/vid/avc1/618x270/aSspOzJqtyiUDelG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068996220438360064/vid/avc1/854x372/T4v9uRWoCLylNZXO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068996220438360064/pl/qpYxkxOkTzOmamf0.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068996220438360064"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068996369138987237",
+        "created_at": "2026-06-22T09:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068996369138987237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "les"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "wlw"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "自慰实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4HO4uucmx",
+              "end": 43,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2068996369138987237/video/1",
+              "media_key": "13_2068996220438360064",
+              "start": 20,
+              "url": "https://t.co/a4HO4uucmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068996369138987237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼…#les  #wlw #自慰实录 https://t.co/a4HO4uucmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 46,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

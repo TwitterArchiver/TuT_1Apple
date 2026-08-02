@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066972605689806859",
+    "created_at": "2026-06-16T19:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066972605689806859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "2061812899098873856",
+          "start": 24,
+          "username": "QwQ_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066972605689806859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很纠结要不要发漏点照…发在小号吧？女生可以关注！@QwQ_1Apple"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066972605689806859",
+        "created_at": "2026-06-16T19:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066972605689806859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2061812899098873856",
+              "start": 24,
+              "username": "QwQ_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066972605689806859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很纠结要不要发漏点照…发在小号吧？女生可以关注！@QwQ_1Apple"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 34,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T14:14:15.000Z",
+        "description": "这里只有风。",
+        "id": "2061812899098873856",
+        "name": "拥抱我世界的孤影",
+        "pinned_tweet_id": "2064351591130685683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324262517981184/b43zPY-V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 10,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "QwQ_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

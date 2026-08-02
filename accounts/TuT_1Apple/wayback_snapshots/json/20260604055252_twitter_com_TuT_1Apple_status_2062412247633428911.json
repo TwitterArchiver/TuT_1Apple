@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2062412247633428911",
+    "created_at": "2026-06-04T05:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062412247633428911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972299495976112128",
+          "start": 3,
+          "username": "usuariofyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062412247633428911",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 966
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062215425451036731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usuariofyp: definitivamente no es mi día, ni mi semana, ni mi mes, ni mi año, ni mi vida"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2062412247633428911",
+        "created_at": "2026-06-04T05:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062412247633428911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972299495976112128",
+              "start": 3,
+              "username": "usuariofyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062412247633428911",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 966
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062215425451036731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usuariofyp: definitivamente no es mi día, ni mi semana, ni mi mes, ni mi año, ni mi vida"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972299495976112128",
+        "conversation_id": "2062215425451036731",
+        "created_at": "2026-06-03T16:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062215425451036731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062215425451036731",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 30002,
+          "like_count": 2136,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 966
+        },
+        "reply_settings": "everyone",
+        "text": "definitivamente no es mi día, ni mi semana, ni mi mes, ni mi año, ni mi vida"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 11,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T13:57:09.000Z",
+        "description": "",
+        "id": "1972299495976112128",
+        "name": "usuario",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013201946329366528/0PYtiVKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10012,
+          "following_count": 119,
+          "like_count": 7442,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 2542
+        },
+        "username": "usuariofyp",
+        "verified": false
+      }
+    ]
+  }
+}

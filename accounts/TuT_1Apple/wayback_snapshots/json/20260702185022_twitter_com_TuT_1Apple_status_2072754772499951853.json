@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2072391823658561536"
+      ],
+      "media_source_tweet_id": [
+        "2072391839051628885"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2072754772499951853",
+    "created_at": "2026-07-02T18:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072754772499951853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYJAgR0hgF",
+          "end": 92,
+          "expanded_url": "https://x.com/eduantao/status/2072391839051628885/video/1",
+          "media_key": "7_2072391823658561536",
+          "start": 69,
+          "url": "https://t.co/vYJAgR0hgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072754772499951853",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6948
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072391839051628885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Eu tentando dormir na noite anterior a algo importante https://t.co/vYJAgR0hgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 518,
+        "media_key": "7_2072391823658561536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072391823658561536/pu/img/KLeUL2Ex3p5XrEYn.jpg",
+        "public_metrics": {
+          "view_count": 139117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072391823658561536/pu/vid/avc1/374x270/9PJ1PkHJSIEkMtHn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072391823658561536/pu/vid/avc1/500x360/OjLj2uoSDN4a1lTs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072391823658561536/pu/vid/avc1/720x518/OCUhT6x-ZyjuI6Ds.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072391823658561536/pu/pl/8Zr43wtbU3jCSdtz.m3u8?tag=12&v=27a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072391823658561536"
+          ],
+          "media_source_tweet_id": [
+            "2072391839051628885"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2072754772499951853",
+        "created_at": "2026-07-02T18:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072754772499951853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYJAgR0hgF",
+              "end": 92,
+              "expanded_url": "https://x.com/eduantao/status/2072391839051628885/video/1",
+              "media_key": "7_2072391823658561536",
+              "start": 69,
+              "url": "https://t.co/vYJAgR0hgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072754772499951853",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6948
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072391839051628885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Eu tentando dormir na noite anterior a algo importante https://t.co/vYJAgR0hgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072391823658561536"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "conversation_id": "2072391839051628885",
+        "created_at": "2026-07-01T18:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072391839051628885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYJAgR0hgF",
+              "end": 78,
+              "expanded_url": "https://x.com/eduantao/status/2072391839051628885/video/1",
+              "media_key": "7_2072391823658561536",
+              "start": 55,
+              "url": "https://t.co/vYJAgR0hgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072391839051628885",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 865,
+          "impression_count": 297181,
+          "like_count": 28695,
+          "quote_count": 127,
+          "reply_count": 28,
+          "retweet_count": 6948
+        },
+        "reply_settings": "everyone",
+        "text": "Eu tentando dormir na noite anterior a algo importante https://t.co/vYJAgR0hgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 56,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 502,
+          "like_count": 76,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

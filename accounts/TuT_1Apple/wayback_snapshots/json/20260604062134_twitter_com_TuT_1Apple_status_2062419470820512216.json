@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2062419470820512216",
+    "created_at": "2026-06-04T06:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062419470820512216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtheuusx/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/mtheuusx/status/2062167665888710906",
+          "start": 22,
+          "url": "https://t.co/RuNagrShmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062419470820512216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062167665888710906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直急于对虽有好像对我有误解的人解释。。 https://t.co/RuNagrShmZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2062419470820512216",
+        "created_at": "2026-06-04T06:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062419470820512216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtheuusx/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mtheuusx/status/2062167665888710906",
+              "start": 22,
+              "url": "https://t.co/RuNagrShmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062419470820512216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062167665888710906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直急于对虽有好像对我有误解的人解释。。 https://t.co/RuNagrShmZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536437020272230400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2062167665888710906",
+        "created_at": "2026-06-03T13:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062167665888710906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062167665888710906",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 222902,
+          "like_count": 9549,
+          "quote_count": 343,
+          "reply_count": 104,
+          "retweet_count": 1069
+        },
+        "reply_settings": "everyone",
+        "text": "Meu psicólogo falou: \"se permita ser mal visto\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸or雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 10,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T19:55:30.000Z",
+        "description": "level 24 | Liberdade é pouco. O que desejo ainda não tem nome.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itsmatheusamor…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/itsmatheusamorim?igsh=MTRrdGhnOTN0dHF3Mg==",
+                "start": 0,
+                "url": "https://t.co/UlVL8SjZaD"
+              }
+            ]
+          }
+        },
+        "id": "1536437020272230400",
+        "location": "RJ ",
+        "name": "math",
+        "pinned_tweet_id": "2052392779146199436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051071474270613504/hbUqW7wx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 2402,
+          "like_count": 9731,
+          "listed_count": 2,
+          "media_count": 2130,
+          "tweet_count": 29772
+        },
+        "url": "https://t.co/UlVL8SjZaD",
+        "username": "mtheuusx",
+        "verified": false
+      }
+    ]
+  }
+}

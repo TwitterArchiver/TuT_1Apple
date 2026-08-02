@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067428967016231189",
+    "created_at": "2026-06-18T03:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067448218968093131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840443382730252288",
+          "start": 0,
+          "username": "elevenie_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067448218968093131",
+    "in_reply_to_user_id": "1840443382730252288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447452970660015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elevenie_x 胡闹厨房特别特别特别特别好玩！！！！我跟朋友玩过，特别好笑啊啊啊。最后两个是什么类型的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T03:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067448218968093131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840443382730252288",
+              "start": 0,
+              "username": "elevenie_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067448218968093131",
+        "in_reply_to_user_id": "1840443382730252288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447452970660015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elevenie_x 胡闹厨房特别特别特别特别好玩！！！！我跟朋友玩过，特别好笑啊啊啊。最后两个是什么类型的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840443382730252288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T03:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067447452970660015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447452970660015",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067443097102057629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 不赖👍。《主播女孩重度依赖》我是在steam上玩的，超天酱很可爱捏。switch必玩榜《塞尔达传说》很好玩。我看你主页喜欢玩联机游戏说是。那《双人成行》《双影奇境》《胡闹厨房》（但我对这个不太感兴趣）《超级马里奥：奥德赛》《路易吉洋馆3》 《毛线小精灵》 都很不错👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 36,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T17:28:10.000Z",
+        "description": "当日记本了 发点日常和烧话\n坐标成都｜大一🏳️‍🌈\n想要视奸我日常生活&查看现生人格的请移步：@HuaLuoShuLi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "HuaLuoShuLi"
+              }
+            ]
+          }
+        },
+        "id": "1840443382730252288",
+        "location": "万物同频",
+        "name": "Eleven Nie",
+        "pinned_tweet_id": "2061660793851285711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054138504947576832/QwqzSlMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 19,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 98
+        },
+        "username": "elevenie_x",
+        "verified": false
+      }
+    ]
+  }
+}

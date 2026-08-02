@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067260794551898591",
+    "created_at": "2026-06-17T14:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067260794551898591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1341569922002870274",
+          "start": 3,
+          "username": "danielagbd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067260794551898591",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066576366729109946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danielagbd_: el evento canónico de una mujer es estar tan emocionada por su cumpleaños y terminar deprimida todo el día"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067260794551898591",
+        "created_at": "2026-06-17T14:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067260794551898591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1341569922002870274",
+              "start": 3,
+              "username": "danielagbd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067260794551898591",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066576366729109946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danielagbd_: el evento canónico de una mujer es estar tan emocionada por su cumpleaños y terminar deprimida todo el día"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341569922002870274",
+        "conversation_id": "2066576366729109946",
+        "created_at": "2026-06-15T17:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066576366729109946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066576366729109946",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1363,
+          "impression_count": 458765,
+          "like_count": 56487,
+          "quote_count": 760,
+          "reply_count": 72,
+          "retweet_count": 12277
+        },
+        "reply_settings": "everyone",
+        "text": "el evento canónico de una mujer es estar tan emocionada por su cumpleaños y terminar deprimida todo el día"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 36,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T02:23:19.000Z",
+        "description": "lol k mal :):\nhttps://t.co/Bj7GnRbgy7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vsco.co/bdannny",
+                "end": 37,
+                "expanded_url": "http://vsco.co/bdannny",
+                "start": 14,
+                "url": "https://t.co/Bj7GnRbgy7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/danielagbd_",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/danielagbd_",
+                "start": 0,
+                "url": "https://t.co/GQhkSlcXpC"
+              }
+            ]
+          }
+        },
+        "id": "1341569922002870274",
+        "name": "danni",
+        "pinned_tweet_id": "1908660841504768452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056947131131310080/4AFbDECJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22003,
+          "following_count": 669,
+          "like_count": 46946,
+          "listed_count": 22,
+          "media_count": 159,
+          "tweet_count": 4866
+        },
+        "url": "https://t.co/GQhkSlcXpC",
+        "username": "danielagbd_",
+        "verified": false
+      }
+    ]
+  }
+}

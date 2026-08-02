@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2069504930185150506",
+    "created_at": "2026-06-23T19:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069504930185150506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069504930185150506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我永远和世界隔着一层透明的膜，包裹着我，我可以了解感受到所有人情绪，我理解，但是世界的一切都好虚幻，好不真切，有过尖锐的针刺破过这层膜，但那是短暂的，过不了多久膜会慢慢长回来，像轻风流水，不是疼，是麻木的轻，隔绝着我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2069504930185150506",
+        "created_at": "2026-06-23T19:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069504930185150506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069504930185150506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我永远和世界隔着一层透明的膜，包裹着我，我可以了解感受到所有人情绪，我理解，但是世界的一切都好虚幻，好不真切，有过尖锐的针刺破过这层膜，但那是短暂的，过不了多久膜会慢慢长回来，像轻风流水，不是疼，是麻木的轻，隔绝着我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 49,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

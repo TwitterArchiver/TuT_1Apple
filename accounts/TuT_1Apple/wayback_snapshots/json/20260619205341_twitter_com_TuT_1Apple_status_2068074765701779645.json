@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068074668112945152"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068074765701779645",
+    "created_at": "2026-06-19T20:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068074765701779645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 2,
+          "tag": "les"
+        },
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "wlw"
+        },
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "喜欢女生"
+        },
+        {
+          "end": 20,
+          "start": 18,
+          "tag": "萌"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qfeDRMoK8V",
+          "end": 44,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2068074765701779645/video/1",
+          "media_key": "13_2068074668112945152",
+          "start": 21,
+          "url": "https://t.co/qfeDRMoK8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068074765701779645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "略。#les #wlw #喜欢女生 #萌 https://t.co/qfeDRMoK8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14750,
+        "height": 1280,
+        "media_key": "13_2068074668112945152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068074668112945152/img/BVT__XC84PbvTlKB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068074668112945152/vid/avc1/320x568/M_rJQjCe_TCPKVUU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068074668112945152/vid/avc1/480x852/cUkVA-7ccoTwtSdc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068074668112945152/vid/avc1/720x1280/4d6uDjnc0OOBoSzN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068074668112945152/pl/HSbICTrjYVlGvcQ4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068074668112945152"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068074765701779645",
+        "created_at": "2026-06-19T20:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068074765701779645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "les"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "wlw"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "喜欢女生"
+            },
+            {
+              "end": 20,
+              "start": 18,
+              "tag": "萌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfeDRMoK8V",
+              "end": 44,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2068074765701779645/video/1",
+              "media_key": "13_2068074668112945152",
+              "start": 21,
+              "url": "https://t.co/qfeDRMoK8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068074765701779645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "略。#les #wlw #喜欢女生 #萌 https://t.co/qfeDRMoK8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 44,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

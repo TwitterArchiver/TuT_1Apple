@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061526101185409024",
+        "3_2061526101172916224"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061526108840001688",
+    "created_at": "2026-06-01T19:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061526108840001688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/70PGXdhrHU",
+          "end": 53,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2061526108840001688/photo/1",
+          "media_key": "3_2061526101185409024",
+          "start": 30,
+          "url": "https://t.co/70PGXdhrHU"
+        },
+        {
+          "display_url": "pic.x.com/70PGXdhrHU",
+          "end": 53,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2061526108840001688/photo/1",
+          "media_key": "3_2061526101172916224",
+          "start": 30,
+          "url": "https://t.co/70PGXdhrHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061526108840001688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是薄荷纸，前世被奸人所害，目前是二代目，求转发互关回家。 https://t.co/70PGXdhrHU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2061526101185409024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwDEQxaMAAyq0H.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2061526101172916224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwDEQubkAAKZ9y.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061526101185409024",
+            "3_2061526101172916224"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061526108840001688",
+        "created_at": "2026-06-01T19:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061526108840001688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70PGXdhrHU",
+              "end": 53,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2061526108840001688/photo/1",
+              "media_key": "3_2061526101185409024",
+              "start": 30,
+              "url": "https://t.co/70PGXdhrHU"
+            },
+            {
+              "display_url": "pic.x.com/70PGXdhrHU",
+              "end": 53,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2061526108840001688/photo/1",
+              "media_key": "3_2061526101172916224",
+              "start": 30,
+              "url": "https://t.co/70PGXdhrHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061526108840001688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是薄荷纸，前世被奸人所害，目前是二代目，求转发互关回家。 https://t.co/70PGXdhrHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD",
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙",
+        "pinned_tweet_id": "2052104618268897603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 5,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 76
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

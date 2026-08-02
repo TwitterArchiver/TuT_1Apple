@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067428967016231189",
+    "created_at": "2026-06-18T16:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067639290939732338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825087806051614720",
+          "start": 0,
+          "username": "qixuan_hu38786"
+        },
+        {
+          "end": 27,
+          "id": "1840443382730252288",
+          "start": 16,
+          "username": "elevenie_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067639290939732338",
+    "in_reply_to_user_id": "1825087806051614720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067638679066026199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixuan_hu38786 @elevenie_x 我去！宝宝人森可以玩很久吗，我看他们讲人森会玩腻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9683,
+        "height": 720,
+        "media_key": "13_2067638598065594368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067638598065594368/img/oM9A-GUgQlCBkHdf.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067638598065594368/vid/avc1/480x270/VNFVib7ej30_Gqds.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067638598065594368/vid/avc1/640x360/XkQsyW_J4tSc65R5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067638598065594368/vid/avc1/1280x720/8FMEeK6nMki6UINW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067638598065594368/pl/ZmfFtCkDBars6baR.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T16:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067639290939732338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825087806051614720",
+              "start": 0,
+              "username": "qixuan_hu38786"
+            },
+            {
+              "end": 27,
+              "id": "1840443382730252288",
+              "start": 16,
+              "username": "elevenie_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067639290939732338",
+        "in_reply_to_user_id": "1825087806051614720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067638679066026199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixuan_hu38786 @elevenie_x 我去！宝宝人森可以玩很久吗，我看他们讲人森会玩腻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067638598065594368"
+          ]
+        },
+        "author_id": "1825087806051614720",
+        "conversation_id": "2067428967016231189",
+        "created_at": "2026-06-18T16:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067638679066026199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            },
+            {
+              "end": 23,
+              "id": "1840443382730252288",
+              "start": 12,
+              "username": "elevenie_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gC9XD42miZ",
+              "end": 63,
+              "expanded_url": "https://x.com/qixuan_hu38786/status/2067638679066026199/video/1",
+              "media_key": "13_2067638598065594368",
+              "start": 40,
+              "url": "https://t.co/gC9XD42miZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067638679066026199",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067443097102057629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple @elevenie_x 人森也超级萌的超级推荐入手嘿嘿 https://t.co/gC9XD42miZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 42,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T08:30:28.000Z",
+        "description": "",
+        "id": "1825087806051614720",
+        "location": "Chicago, IL",
+        "name": "特悟兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885948761139974144/MjvHqPOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 49,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "qixuan_hu38786",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T17:28:10.000Z",
+        "description": "当日记本了 发点日常和烧话\n坐标成都｜大一🏳️‍🌈\n想要视奸我日常生活&查看现生人格的请移步：@HuaLuoShuLi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "HuaLuoShuLi"
+              }
+            ]
+          }
+        },
+        "id": "1840443382730252288",
+        "location": "万物同频",
+        "name": "Eleven Nie",
+        "pinned_tweet_id": "2061660793851285711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054138504947576832/QwqzSlMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 19,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "elevenie_x",
+        "verified": false
+      }
+    ]
+  }
+}

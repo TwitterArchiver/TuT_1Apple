@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067579613338017792"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067571627861409924",
+    "created_at": "2026-06-18T12:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067579641020531000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VV8td8r316",
+          "end": 38,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067579641020531000/photo/1",
+          "media_key": "16_2067579613338017792",
+          "start": 15,
+          "url": "https://t.co/VV8td8r316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067579641020531000",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067578383060566100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ https://t.co/VV8td8r316"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "16_2067579613338017792",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLGEtC3aIAAG0Fc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLGEtC3aIAAG0Fc.mp4"
+          }
+        ],
+        "width": 538
+      },
+      {
+        "height": 1731,
+        "media_key": "3_2067578379449294848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGDlORaYAAykmh.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067579613338017792"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067571627861409924",
+        "created_at": "2026-06-18T12:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067579641020531000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VV8td8r316",
+              "end": 38,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067579641020531000/photo/1",
+              "media_key": "16_2067579613338017792",
+              "start": 15,
+              "url": "https://t.co/VV8td8r316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579641020531000",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067578383060566100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ https://t.co/VV8td8r316"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067578379449294848"
+          ]
+        },
+        "author_id": "834974107577925632",
+        "conversation_id": "2067571627861409924",
+        "created_at": "2026-06-18T12:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067578383060566100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoBvMuyL3W",
+              "end": 35,
+              "expanded_url": "https://x.com/yuuki_konno__/status/2067578383060566100/photo/1",
+              "media_key": "3_2067578379449294848",
+              "start": 12,
+              "url": "https://t.co/YoBvMuyL3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578383060566100",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067571627861409924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple https://t.co/YoBvMuyL3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 39,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257556445618372609/UPWEpMrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1254,
+          "like_count": 44679,
+          "listed_count": 1,
+          "media_count": 1168,
+          "tweet_count": 3320
+        },
+        "url": "",
+        "username": "yuuki_konno__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067261809233715442",
+    "created_at": "2026-06-17T15:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067261809233715442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knnibal_val/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/knnibal_val/status/2067054418139205661",
+          "start": 5,
+          "url": "https://t.co/cHznKxN0sH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067261809233715442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067054418139205661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二者兼得 https://t.co/cHznKxN0sH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067261809233715442",
+        "created_at": "2026-06-17T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067261809233715442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knnibal_val/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/knnibal_val/status/2067054418139205661",
+              "start": 5,
+              "url": "https://t.co/cHznKxN0sH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067261809233715442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067054418139205661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二者兼得 https://t.co/cHznKxN0sH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "conversation_id": "2067054418139205661",
+        "created_at": "2026-06-17T01:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067054418139205661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067054418139205661",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 12237,
+          "like_count": 1082,
+          "quote_count": 22,
+          "reply_count": 21,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "Entre drogarse y cortarse prefiero cortarme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 36,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "♰•𝑆𝑖 𝑢𝑛 𝑑𝑖́𝑎 𝑡𝑒 𝑝𝑖𝑒𝑟𝑑𝑒𝑠 𝑏𝑢𝑠𝑘𝑡𝑒 𝑒𝑛 𝑙𝑜 𝑘𝑒 𝑚𝑎𝑠 𝑎𝑚𝑎𝑠 #shtwt #edtwt #drugtwt\nsecond account: @x_zmbie ~♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "edtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "x_zmbie"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "femboylandia",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2065449380065247648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067038715478716416/dhrcNfx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 79,
+          "like_count": 4270,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 561
+        },
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

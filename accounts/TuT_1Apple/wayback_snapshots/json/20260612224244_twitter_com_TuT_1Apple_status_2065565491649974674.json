@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2065538411629564202",
+    "created_at": "2026-06-12T22:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T23:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065565491649974674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987130736546381824",
+          "start": 0,
+          "username": "hai_hao29881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065565491649974674",
+    "in_reply_to_user_id": "1987130736546381824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065556881784160566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai_hao29881 去死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2065556876352487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpVCQZbAAAbVDn.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2065538411629564202",
+        "created_at": "2026-06-12T22:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065565491649974674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987130736546381824",
+              "start": 0,
+              "username": "hai_hao29881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065565491649974674",
+        "in_reply_to_user_id": "1987130736546381824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065556881784160566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai_hao29881 去死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065556876352487424"
+          ]
+        },
+        "author_id": "1987130736546381824",
+        "conversation_id": "2065538411629564202",
+        "created_at": "2026-06-12T22:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065556881784160566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EzvjCrV4Y",
+              "end": 35,
+              "expanded_url": "https://x.com/hai_hao29881/status/2065556881784160566/photo/1",
+              "media_key": "3_2065556876352487424",
+              "start": 12,
+              "url": "https://t.co/1EzvjCrV4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065556881784160566",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065538411629564202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple https://t.co/1EzvjCrV4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 25,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:11:19.000Z",
+        "description": "",
+        "id": "1987130736546381824",
+        "name": "faker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987135883611676678/IALjaFGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "hai_hao29881",
+        "verified": false
+      }
+    ]
+  }
+}

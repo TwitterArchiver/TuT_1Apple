@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2069501310983086166",
+    "created_at": "2026-06-23T19:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069501310983086166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2897454865",
+          "start": 3,
+          "username": "no_watch_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069501310983086166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 574
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069031235394175017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @no_watch_no: すみません日本におけるBLカルチャーは男同士の恋愛性愛を女性好みに性的客体化して形作られたコンテンツであって現実の同性愛者とは無関係だし女性側からも現実のゲイからも接続を望まれてないんです\n現実のゲイにBLを寄せたら女性好みの文化で無くなってし…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2069501310983086166",
+        "created_at": "2026-06-23T19:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069501310983086166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2897454865",
+              "start": 3,
+              "username": "no_watch_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069501310983086166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069031235394175017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @no_watch_no: すみません日本におけるBLカルチャーは男同士の恋愛性愛を女性好みに性的客体化して形作られたコンテンツであって現実の同性愛者とは無関係だし女性側からも現実のゲイからも接続を望まれてないんです\n現実のゲイにBLを寄せたら女性好みの文化で無くなってし…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2897454865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2069031235394175017",
+        "created_at": "2026-06-22T12:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069031235394175017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vex_valor/stat…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/vex_valor/status/2068498493950357858",
+              "start": 127,
+              "url": "https://t.co/wkQMkkgXvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069031235394175017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 646,
+          "impression_count": 718305,
+          "like_count": 4678,
+          "quote_count": 101,
+          "reply_count": 40,
+          "retweet_count": 574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068498493950357858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "すみません日本におけるBLカルチャーは男同士の恋愛性愛を女性好みに性的客体化して形作られたコンテンツであって現実の同性愛者とは無関係だし女性側からも現実のゲイからも接続を望まれてないんです\n現実のゲイにBLを寄せたら女性好みの文化で無くなってしまうので https://t.co/wkQMkkgXvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 49,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-12T10:41:58.000Z",
+        "description": "アイコンは公式より 避難垢→@nwnhinan\n台湾独立支持🇹🇼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "nwnhinan"
+              }
+            ]
+          }
+        },
+        "id": "2897454865",
+        "location": "世界一のエゴイスト",
+        "name": "ノッチ",
+        "pinned_tweet_id": "1960180993639563515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027043603131035649/SuXrrs3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 892,
+          "like_count": 144836,
+          "listed_count": 17,
+          "media_count": 1367,
+          "tweet_count": 66618
+        },
+        "url": "",
+        "username": "no_watch_no",
+        "verified": false
+      }
+    ]
+  }
+}

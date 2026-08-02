@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073322362251120640"
+      ],
+      "media_source_tweet_id": [
+        "2073322374771130449"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2073447767758798887",
+    "created_at": "2026-07-04T16:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073447767758798887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ElNja59sGs",
+          "end": 45,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2073322374771130449/photo/1",
+          "media_key": "3_2073322362251120640",
+          "start": 22,
+          "url": "https://t.co/ElNja59sGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073447767758798887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073322374771130449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 唉 https://t.co/ElNja59sGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2073322362251120640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXrtBraEAASUnv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073322362251120640"
+          ],
+          "media_source_tweet_id": [
+            "2073322374771130449"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2073447767758798887",
+        "created_at": "2026-07-04T16:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073447767758798887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElNja59sGs",
+              "end": 45,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2073322374771130449/photo/1",
+              "media_key": "3_2073322362251120640",
+              "start": 22,
+              "url": "https://t.co/ElNja59sGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447767758798887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073322374771130449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 唉 https://t.co/ElNja59sGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073322362251120640"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2073322374771130449",
+        "created_at": "2026-07-04T08:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073322374771130449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElNja59sGs",
+              "end": 25,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2073322374771130449/photo/1",
+              "media_key": "3_2073322362251120640",
+              "start": 2,
+              "url": "https://t.co/ElNja59sGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073322374771130449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11504,
+          "like_count": 469,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/ElNja59sGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpeE4q"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 55,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/ParTMpeE4q",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10091,
+          "following_count": 70,
+          "like_count": 8713,
+          "listed_count": 8,
+          "media_count": 189,
+          "tweet_count": 2034
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

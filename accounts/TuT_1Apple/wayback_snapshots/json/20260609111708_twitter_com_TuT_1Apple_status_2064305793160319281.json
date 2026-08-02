@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063637981987266561"
+      ],
+      "media_source_tweet_id": [
+        "2063637993462874495"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2064305793160319281",
+    "created_at": "2026-06-09T11:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064305793160319281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061812899098873856",
+          "start": 3,
+          "username": "QwQ_1Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9G4DJZ0b4P",
+          "end": 45,
+          "expanded_url": "https://x.com/QwQ_1Apple/status/2063637993462874495/photo/1",
+          "media_key": "3_2063637981987266561",
+          "start": 22,
+          "url": "https://t.co/9G4DJZ0b4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064305793160319281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063637993462874495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QwQ_1Apple: 变成海吧。 https://t.co/9G4DJZ0b4P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064305793160319281].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064305793160319281",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064305793160319281"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063637981987266561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKODz51a4AE46Uh.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063637981987266561"
+          ]
+        },
+        "author_id": "2061812899098873856",
+        "conversation_id": "2063637993462874495",
+        "created_at": "2026-06-07T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063637993462874495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9G4DJZ0b4P",
+              "end": 29,
+              "expanded_url": "https://x.com/QwQ_1Apple/status/2063637993462874495/photo/1",
+              "media_key": "3_2063637981987266561",
+              "start": 6,
+              "url": "https://t.co/9G4DJZ0b4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063637993462874495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "变成海吧。 https://t.co/9G4DJZ0b4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 19,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T14:14:15.000Z",
+        "description": "这里只有风。",
+        "id": "2061812899098873856",
+        "location": "大家都喜欢切苹果",
+        "name": "拥抱我世界的孤影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061813781018370050/5C9kIT9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 3,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "QwQ_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

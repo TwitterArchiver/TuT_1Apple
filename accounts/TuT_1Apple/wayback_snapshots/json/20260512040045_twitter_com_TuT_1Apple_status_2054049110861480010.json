@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2054049110861480010",
+    "created_at": "2026-05-12T04:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054049110861480010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047238669745209344",
+          "start": 3,
+          "username": "Rubyyv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054049110861480010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053626521634689334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rubyyv8: 被吃醋好爽\n被质问好爽\n被控制好爽\n你对我的占有欲、控制欲、窥探欲太低，我真的会很失望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2054049110861480010",
+        "created_at": "2026-05-12T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054049110861480010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047238669745209344",
+              "start": 3,
+              "username": "Rubyyv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054049110861480010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053626521634689334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rubyyv8: 被吃醋好爽\n被质问好爽\n被控制好爽\n你对我的占有欲、控制欲、窥探欲太低，我真的会很失望。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047238669745209344",
+        "conversation_id": "2053626521634689334",
+        "created_at": "2026-05-11T00:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053626521634689334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053626521634689334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 28407,
+          "like_count": 1030,
+          "quote_count": 18,
+          "reply_count": 56,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "被吃醋好爽\n被质问好爽\n被控制好爽\n你对我的占有欲、控制欲、窥探欲太低，我真的会很失望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "痛痛痛痛痛痛痛痛痛。",
+        "id": "2047631836864483328",
+        "location": "拥有苹果时只在意苹果",
+        "name": "你會珍藏我的每一滴眼淚嗎",
+        "pinned_tweet_id": "2052104618268897603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T08:59:19.000Z",
+        "description": "//喜歡反差男//不加聯繫方式//不约不约不约//文明你我他..//\n\n提问箱：https://t.co/sSwJ8SCIzw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruby64015",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ruby64015",
+                "start": 40,
+                "url": "https://t.co/sSwJ8SCIzw"
+              }
+            ]
+          }
+        },
+        "id": "2047238669745209344",
+        "name": "Ruby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239176966623232/2JLfaTZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 82
+        },
+        "username": "Rubyyv8",
+        "verified": false
+      }
+    ]
+  }
+}

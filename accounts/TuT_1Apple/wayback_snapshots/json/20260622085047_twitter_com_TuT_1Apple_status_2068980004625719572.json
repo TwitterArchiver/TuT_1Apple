@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2068980004625719572",
+    "created_at": "2026-06-22T08:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068980004625719572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578837160773533697",
+          "start": 3,
+          "username": "lloronnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068980004625719572",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068507582021407208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lloronnna: por qué no me mate a los 13"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2068980004625719572",
+        "created_at": "2026-06-22T08:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068980004625719572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578837160773533697",
+              "start": 3,
+              "username": "lloronnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068980004625719572",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068507582021407208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lloronnna: por qué no me mate a los 13"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578837160773533697",
+        "conversation_id": "2068507582021407208",
+        "created_at": "2026-06-21T01:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068507582021407208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068507582021407208",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 141679,
+          "like_count": 12316,
+          "quote_count": 116,
+          "reply_count": 32,
+          "retweet_count": 4293
+        },
+        "reply_settings": "everyone",
+        "text": "por qué no me mate a los 13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜无🚪\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 46,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T19:58:16.000Z",
+        "description": "uwu",
+        "id": "1578837160773533697",
+        "location": "    ‍‍‍‍‍ ‍‍‍‍‍ ‍‍‍‍‍ ‍‍‍‍‍",
+        "name": "ela",
+        "pinned_tweet_id": "2067732636756246561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067482035648659457/73Yi_sj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "lloronnna",
+        "verified": false
+      }
+    ]
+  }
+}

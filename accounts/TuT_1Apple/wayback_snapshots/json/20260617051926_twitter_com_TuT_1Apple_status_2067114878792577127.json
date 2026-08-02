@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066927610618323230",
+    "created_at": "2026-06-17T05:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067114878792577127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944816679290331136",
+          "start": 0,
+          "username": "AlwaysLie_4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067114878792577127",
+    "in_reply_to_user_id": "1944816679290331136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067041621242438064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlwaysLie_4ever 管我的都死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-17T05:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067114878792577127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944816679290331136",
+              "start": 0,
+              "username": "AlwaysLie_4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067114878792577127",
+        "in_reply_to_user_id": "1944816679290331136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067041621242438064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlwaysLie_4ever 管我的都死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944816679290331136",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-17T00:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067041621242438064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067041621242438064",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927610618323230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 哎呀 我要笑晕了。。观后感：你管我呢你也死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 35,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T17:51:11.000Z",
+        "description": "",
+        "id": "1944816679290331136",
+        "location": "床",
+        "name": "我没有下辈子 我也不想再当小猫了",
+        "pinned_tweet_id": "2061339503290421464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061248029982855168/q0wRCAry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 6,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 487
+        },
+        "username": "AlwaysLie_4ever",
+        "verified": false
+      }
+    ]
+  }
+}

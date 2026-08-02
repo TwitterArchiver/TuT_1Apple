@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066927610618323230",
+    "created_at": "2026-06-16T18:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066948646499963211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682633838433026048",
+          "start": 0,
+          "username": "Nikynikylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066948646499963211",
+    "in_reply_to_user_id": "1682633838433026048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066942714839769088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikynikylove 其实我很温良"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-16T18:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066948646499963211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682633838433026048",
+              "start": 0,
+              "username": "Nikynikylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066948646499963211",
+        "in_reply_to_user_id": "1682633838433026048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066942714839769088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikynikylove 其实我很温良"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682633838433026048",
+        "conversation_id": "2066927610618323230",
+        "created_at": "2026-06-16T17:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066942714839769088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066942714839769088",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927610618323230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 这攻击力我学一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 34,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T06:09:14.000Z",
+        "description": "我看心情\n匿名问答https://t.co/XEVUkY14lK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/helllover",
+                "end": 32,
+                "expanded_url": "https://ngl.link/helllover",
+                "start": 9,
+                "url": "https://t.co/XEVUkY14lK"
+              }
+            ]
+          }
+        },
+        "id": "1682633838433026048",
+        "location": "Hell 444room",
+        "name": "地獄戀人",
+        "pinned_tweet_id": "2032904472612188266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968728620949716992/QpAg2XW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 136,
+          "like_count": 2350,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 564
+        },
+        "username": "Nikynikylove",
+        "verified": false
+      }
+    ]
+  }
+}

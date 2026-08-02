@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2066391239700910106",
+    "created_at": "2026-06-16T18:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066954587282808881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438184749739114498",
+          "start": 0,
+          "username": "Yue_hua_08042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066954587282808881",
+    "in_reply_to_user_id": "1438184749739114498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066952584800403732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_hua_08042 有点影响我工作了TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066391239700910106",
+        "created_at": "2026-06-16T18:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066954587282808881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438184749739114498",
+              "start": 0,
+              "username": "Yue_hua_08042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066954587282808881",
+        "in_reply_to_user_id": "1438184749739114498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066952584800403732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_hua_08042 有点影响我工作了TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438184749739114498",
+        "conversation_id": "2066391239700910106",
+        "created_at": "2026-06-16T18:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066952584800403732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952584800403732",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066391239700910106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 正常反应其实）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 34,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T16:55:47.000Z",
+        "description": "坐标广州，超级i人 喜欢我的话和我聊天就能涨亲密度。也可以找我出来玩。爱好是音游，日麻，喜欢听术力口。企鹅群：748844829🥰🥰✈️群：https://t.co/gLbDKXzlSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+xoUpKWQgNrQ3Z…",
+                "end": 93,
+                "expanded_url": "https://t.me/+xoUpKWQgNrQ3ZTc1",
+                "start": 70,
+                "url": "https://t.co/gLbDKXzlSi"
+              }
+            ]
+          }
+        },
+        "id": "1438184749739114498",
+        "location": "广州",
+        "name": "月花子🍥",
+        "pinned_tweet_id": "2039237321560936807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 97,
+          "like_count": 137,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 177
+        },
+        "username": "Yue_hua_08042",
+        "verified": true
+      }
+    ]
+  }
+}

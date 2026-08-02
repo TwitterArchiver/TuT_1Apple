@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067100644335640577"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067100654385115382",
+    "created_at": "2026-06-17T04:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067100654385115382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sNFHKl6D0",
+          "end": 32,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2067100654385115382/photo/1",
+          "media_key": "3_2067100644335640577",
+          "start": 9,
+          "url": "https://t.co/3sNFHKl6D0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067100654385115382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再次1000fo https://t.co/3sNFHKl6D0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2067100644335640577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_RFYSbYAEKtlG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067100644335640577"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067100654385115382",
+        "created_at": "2026-06-17T04:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067100654385115382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sNFHKl6D0",
+              "end": 32,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2067100654385115382/photo/1",
+              "media_key": "3_2067100644335640577",
+              "start": 9,
+              "url": "https://t.co/3sNFHKl6D0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067100654385115382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次1000fo https://t.co/3sNFHKl6D0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔/里号：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 35,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

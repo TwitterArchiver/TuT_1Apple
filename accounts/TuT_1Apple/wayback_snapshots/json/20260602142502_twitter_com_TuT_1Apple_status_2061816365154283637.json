@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2061816365154283637",
+    "created_at": "2026-06-02T14:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061816365154283637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1424812473530687490",
+          "start": 3,
+          "username": "espantapiroca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061816365154283637",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4994
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061464004376064416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @espantapiroca: odeio gente hipocrita \nmenos eu \neu posso"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2061816365154283637",
+        "created_at": "2026-06-02T14:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061816365154283637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1424812473530687490",
+              "start": 3,
+              "username": "espantapiroca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061816365154283637",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4994
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061464004376064416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @espantapiroca: odeio gente hipocrita \nmenos eu \neu posso"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424812473530687490",
+        "conversation_id": "2061464004376064416",
+        "created_at": "2026-06-01T15:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061464004376064416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061464004376064416",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 92788,
+          "like_count": 9910,
+          "quote_count": 28,
+          "reply_count": 27,
+          "retweet_count": 4994
+        },
+        "reply_settings": "everyone",
+        "text": "odeio gente hipocrita \nmenos eu \neu posso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD",
+        "id": "2047631836864483328",
+        "location": "我想我一定是会逃跑的，除了明天我还能去哪里。",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 7,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T19:19:13.000Z",
+        "description": "死",
+        "id": "1424812473530687490",
+        "location": "inferno",
+        "name": "╋━",
+        "pinned_tweet_id": "2033731557106569274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056210547473797120/MkYrhKRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 338,
+          "like_count": 4343,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 5442
+        },
+        "username": "espantapiroca",
+        "verified": false
+      }
+    ]
+  }
+}

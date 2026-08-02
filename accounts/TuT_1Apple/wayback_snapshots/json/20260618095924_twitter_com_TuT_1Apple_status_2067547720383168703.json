@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2067141850734186603",
+    "created_at": "2026-06-18T09:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067547720383168703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1895822620349906946",
+          "start": 0,
+          "username": "burenchi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067547720383168703",
+    "in_reply_to_user_id": "1895822620349906946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067141850734186603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@burenchi_ 爽…接……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2067141850734186603",
+        "created_at": "2026-06-18T09:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067547720383168703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1895822620349906946",
+              "start": 0,
+              "username": "burenchi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067547720383168703",
+        "in_reply_to_user_id": "1895822620349906946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067141850734186603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@burenchi_ 爽…接……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895822620349906946",
+        "conversation_id": "2067141850734186603",
+        "created_at": "2026-06-17T07:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067141850734186603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "wlw"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "le"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "女同"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067141850734186603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 54966,
+          "like_count": 856,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "高考之后第一次做爱，先是粘着亲，然后顺理成章被玩阴蒂抽逼打屁股，然而不同以往的是今天取得了革命性的进步——首次纯阴道高潮。以前以为里面完全无感的此人时至今日终于只用里面就爽的脑子都转不动了，喊出来的声音也跟av里一样不体面。唉，时也命也！ #wlw #le #女同 #sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 38,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T13:05:22.000Z",
+        "description": "女同且sub/m，现生幸福恋爱中\n提问箱：https://t.co/lVzak8CXmZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mgcpq0ncdg79151",
+                "end": 44,
+                "expanded_url": "https://ngl.link/mgcpq0ncdg79151",
+                "start": 21,
+                "url": "https://t.co/lVzak8CXmZ"
+              }
+            ]
+          }
+        },
+        "id": "1895822620349906946",
+        "name": "不忍池。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009970611897184256/ARb-zHrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 175,
+          "like_count": 1135,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 54
+        },
+        "username": "burenchi_",
+        "verified": false
+      }
+    ]
+  }
+}
