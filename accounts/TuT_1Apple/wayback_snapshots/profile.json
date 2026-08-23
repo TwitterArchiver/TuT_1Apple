@@ -1,7 +1,7 @@
 {
   "name": "薄荷紙2.0",
   "username": "@TuT_1Apple",
-  "bio": "le 0.01｜双相重焦OD｜不约不聊不加 防炸/雪兔：@QwQ_1Apple",
+  "bio": "le 0.01｜08双相重焦OD｜我的狗@For_cat1102 防炸/雪兔：@QwQ_1Apple 男的靠近就死全家",
   "location": "我的心为恐惧和欲望而跳动",
   "link": "https://ngl.link/apple95448",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 39,
-        "start": 28,
+        "end": 32,
+        "start": 20,
+        "username": "For_cat1102"
+      },
+      {
+        "end": 50,
+        "start": 39,
         "username": "QwQ_1Apple"
       }
     ]
