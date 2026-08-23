@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "card_uri": "https://t.co/NHvJexs4rz",
+    "conversation_id": "2087245522256199908",
+    "created_at": "2026-08-11T18:31:26.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087245522256199908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/apple95448",
+          "end": 31,
+          "expanded_url": "https://ngl.link/apple95448",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://pbs.twimg.com/news_img/2086693336593858560/XMsUr5N_?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2086693336593858560/XMsUr5N_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "@apple: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/apple95448",
+          "url": "https://t.co/NHvJexs4rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087245522256199908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安呀来玩一下。https://t.co/NHvJexs4rz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "card_uri": "https://t.co/NHvJexs4rz",
+        "conversation_id": "2087245522256199908",
+        "created_at": "2026-08-11T18:31:26.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087245522256199908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/apple95448",
+              "end": 31,
+              "expanded_url": "https://ngl.link/apple95448",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2086693336593858560/XMsUr5N_?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086693336593858560/XMsUr5N_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "@apple: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/apple95448",
+              "url": "https://t.co/NHvJexs4rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087245522256199908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安呀来玩一下。https://t.co/NHvJexs4rz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple｜狗：@For_cat1102\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "For_cat1102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2087245522256199908",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 72,
+          "like_count": 669,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

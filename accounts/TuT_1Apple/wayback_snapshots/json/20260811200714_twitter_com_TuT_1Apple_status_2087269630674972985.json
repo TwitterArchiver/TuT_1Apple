@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2087269630674972985",
+    "created_at": "2026-08-11T20:07:14.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087269630674972985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648639500350791682",
+          "start": 3,
+          "username": "femiiiszn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087269630674972985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1834
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087095269775098040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @femiiiszn: no one talks about how humbling it is to lose all your academic potential because of your mental health."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2087269630674972985",
+        "created_at": "2026-08-11T20:07:14.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087269630674972985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648639500350791682",
+              "start": 3,
+              "username": "femiiiszn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087269630674972985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1834
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087095269775098040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @femiiiszn: no one talks about how humbling it is to lose all your academic potential because of your mental health."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648639500350791682",
+        "conversation_id": "2087095269775098040",
+        "created_at": "2026-08-11T08:34:23.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087095269775098040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087095269775098040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 120980,
+          "like_count": 9197,
+          "quote_count": 192,
+          "reply_count": 35,
+          "retweet_count": 1834
+        },
+        "reply_settings": "everyone",
+        "text": "no one talks about how humbling it is to lose all your academic potential because of your mental health."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple｜狗：@For_cat1102\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "For_cat1102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2087269630674972985",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 72,
+          "like_count": 671,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-19T10:47:54.000Z",
+        "description": "20 | DM for promos | korty stan",
+        "id": "1648639500350791682",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087237666870038548",
+        "name": "femiiiiii.",
+        "pinned_tweet_id": "1833893399436652594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648639500350791682/1681901508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744113564086870016/neLJdw8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35895,
+          "following_count": 9321,
+          "like_count": 30741,
+          "listed_count": 45,
+          "media_count": 1747,
+          "tweet_count": 42783
+        },
+        "url": "",
+        "username": "femiiiszn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

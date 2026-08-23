@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2084244528270393696",
+    "created_at": "2026-08-04T07:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084546005073322302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040767051845783552",
+          "start": 0,
+          "username": "Nyla543033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084546005073322302",
+    "in_reply_to_user_id": "2040767051845783552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084532453516148794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyla543033 巧了吗不是这个就是番茄底！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2084244528270393696",
+        "created_at": "2026-08-04T07:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084546005073322302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040767051845783552",
+              "start": 0,
+              "username": "Nyla543033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084546005073322302",
+        "in_reply_to_user_id": "2040767051845783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084532453516148794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyla543033 巧了吗不是这个就是番茄底！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040767051845783552",
+        "conversation_id": "2084244528270393696",
+        "created_at": "2026-08-04T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084532453516148794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084532453516148794",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084244528270393696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 吃番茄՞･∞･՞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 62,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T12:22:53.000Z",
+        "description": "INFP\n找饭小女孩都来看我首页好吗",
+        "id": "2040767051845783552",
+        "name": "番茄炒西红柿（原号富士山上）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052085544822435840/U_embCa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 69,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "Nyla543033",
+        "verified": false
+      }
+    ]
+  }
+}

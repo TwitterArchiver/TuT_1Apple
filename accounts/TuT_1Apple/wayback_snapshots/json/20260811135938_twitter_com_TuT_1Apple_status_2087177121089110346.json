@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2087177121089110346",
+    "created_at": "2026-08-11T13:59:38.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087177121089110346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940944383953502208",
+          "start": 3,
+          "username": "kit_crit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087177121089110346",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2623
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086791543994618058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kit_crit: i forget suicide isnt a casual topic for most people"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2087177121089110346",
+        "created_at": "2026-08-11T13:59:38.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087177121089110346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940944383953502208",
+              "start": 3,
+              "username": "kit_crit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087177121089110346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2623
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086791543994618058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kit_crit: i forget suicide isnt a casual topic for most people"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940944383953502208",
+        "conversation_id": "2086791543994618058",
+        "created_at": "2026-08-10T12:27:29.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086791543994618058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086791543994618058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 146739,
+          "like_count": 13911,
+          "quote_count": 113,
+          "reply_count": 20,
+          "retweet_count": 2623
+        },
+        "reply_settings": "everyone",
+        "text": "i forget suicide isnt a casual topic for most people"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple｜狗：@For_cat1102\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "For_cat1102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2087177121089110346",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 70,
+          "like_count": 664,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T01:23:09.000Z",
+        "description": "18 ★ ndni ☆ i am kit w many likes!!! ★ nonbinary and whimsical always ☆ kit.crit_ on dc! ⋆˙⟡ babyjirai and coser, love me forever, kay?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitkat.com",
+                "end": 23,
+                "expanded_url": "https://www.kitkat.com",
+                "start": 0,
+                "url": "https://t.co/51cvpwYX8E"
+              }
+            ]
+          }
+        },
+        "id": "1940944383953502208",
+        "is_identity_verified": false,
+        "location": "they/them/kit        💛🤍💜🖤 ",
+        "most_recent_tweet_id": "2087169089726816579",
+        "name": "kit 🐾",
+        "pinned_tweet_id": "2071247629506257189",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940944383953502208/1786425786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081496378849570816/xt9YuaIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 865,
+          "like_count": 67336,
+          "listed_count": 5,
+          "media_count": 687,
+          "tweet_count": 12340
+        },
+        "url": "https://t.co/51cvpwYX8E",
+        "username": "kit_crit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

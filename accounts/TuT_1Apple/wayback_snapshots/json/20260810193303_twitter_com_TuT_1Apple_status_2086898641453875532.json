@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2086898641453875532",
+    "created_at": "2026-08-10T19:33:03.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086898641453875532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061812899098873856",
+          "start": 0,
+          "username": "QwQ_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086898641453875532",
+    "in_reply_to_user_id": "2061812899098873856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@QwQ_1Apple 这是我的雪兔小号呀！里面都是特效化妆，主页能看出成分的会回关^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2086898641453875532",
+        "created_at": "2026-08-10T19:33:03.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086898641453875532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061812899098873856",
+              "start": 0,
+              "username": "QwQ_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086898641453875532",
+        "in_reply_to_user_id": "2061812899098873856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@QwQ_1Apple 这是我的雪兔小号呀！里面都是特效化妆，主页能看出成分的会回关^^"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2086898641453875532",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 65,
+          "like_count": 626,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T14:14:15.000Z",
+        "description": "这里只有风。",
+        "id": "2061812899098873856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2078125977083748571",
+        "name": "别让我一个人",
+        "pinned_tweet_id": "2064351591130685683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061812899098873856/1781008139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324262517981184/b43zPY-V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 14,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "QwQ_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

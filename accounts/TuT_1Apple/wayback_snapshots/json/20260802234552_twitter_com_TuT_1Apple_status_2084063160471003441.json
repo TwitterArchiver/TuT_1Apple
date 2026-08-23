@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083906358727045120"
+      ],
+      "media_source_tweet_id": [
+        "2083906383049814280"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2084063160471003441",
+    "created_at": "2026-08-02T23:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084063160471003441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079688108573102080",
+          "start": 3,
+          "username": "fufufu_hai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gslbBbs9ME",
+          "end": 39,
+          "expanded_url": "https://x.com/fufufu_hai/status/2083906383049814280/video/1",
+          "media_key": "13_2083906358727045120",
+          "start": 16,
+          "url": "https://t.co/gslbBbs9ME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084063160471003441",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083906383049814280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufufu_hai: https://t.co/gslbBbs9ME"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5666,
+        "height": 766,
+        "media_key": "13_2083906358727045120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083906358727045120/img/miuZXC3l4H0-2arf.jpg",
+        "public_metrics": {
+          "view_count": 31361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083906358727045120/vid/avc1/320x340/EKUCPWLrawAVxvZ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083906358727045120/vid/avc1/480x510/ZbuFiay1LQfjCt6C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083906358727045120/vid/avc1/720x766/qinv6r3CLndDgR9p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083906358727045120/pl/fFc_uvfzmkC8lYgx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083906358727045120"
+          ]
+        },
+        "author_id": "2079688108573102080",
+        "conversation_id": "2083906383049814280",
+        "created_at": "2026-08-02T13:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083906383049814280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gslbBbs9ME",
+              "end": 23,
+              "expanded_url": "https://x.com/fufufu_hai/status/2083906383049814280/video/1",
+              "media_key": "13_2083906358727045120",
+              "start": 0,
+              "url": "https://t.co/gslbBbs9ME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083906383049814280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 51277,
+          "like_count": 3249,
+          "quote_count": 16,
+          "reply_count": 19,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gslbBbs9ME"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083906358727045120"
+          ],
+          "media_source_tweet_id": [
+            "2083906383049814280"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2084063160471003441",
+        "created_at": "2026-08-02T23:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084063160471003441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079688108573102080",
+              "start": 3,
+              "username": "fufufu_hai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gslbBbs9ME",
+              "end": 39,
+              "expanded_url": "https://x.com/fufufu_hai/status/2083906383049814280/video/1",
+              "media_key": "13_2083906358727045120",
+              "start": 16,
+              "url": "https://t.co/gslbBbs9ME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084063160471003441",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083906383049814280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufufu_hai: https://t.co/gslbBbs9ME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 61,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T22:04:31.000Z",
+        "description": "",
+        "id": "2079688108573102080",
+        "name": "腐敗ちゃん？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080241638916640769/bRouKqK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "fufufu_hai",
+        "verified": false
+      }
+    ]
+  }
+}

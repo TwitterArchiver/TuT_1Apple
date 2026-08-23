@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047631836864483328",
+    "conversation_id": "2087268684402176393",
+    "created_at": "2026-08-11T20:03:28.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087268684402176393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541628293274812416",
+          "start": 3,
+          "username": "YXSZD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087268684402176393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086831237747077419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YXSZD3: 我真的没法懂回避型。。喜欢过才知道有多痛苦 而且都这样了 对方居然表现的比我还要痛苦 说好话的是我 哄人的是我 解决问题的是我 放下面子求和好的也是我 你在痛苦什么呢 高高在上的 一句我是回避型我情感漠视就可以什么都不管吗 好恶心啊好恶心 最恶心的还是我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2087268684402176393",
+        "created_at": "2026-08-11T20:03:28.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087268684402176393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541628293274812416",
+              "start": 3,
+              "username": "YXSZD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087268684402176393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086831237747077419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YXSZD3: 我真的没法懂回避型。。喜欢过才知道有多痛苦 而且都这样了 对方居然表现的比我还要痛苦 说好话的是我 哄人的是我 解决问题的是我 放下面子求和好的也是我 你在痛苦什么呢 高高在上的 一句我是回避型我情感漠视就可以什么都不管吗 好恶心啊好恶心 最恶心的还是我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541628293274812416",
+        "conversation_id": "2086831237747077419",
+        "created_at": "2026-08-10T15:05:13.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086831237747077419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086831237747077419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 48039,
+          "like_count": 971,
+          "quote_count": 19,
+          "reply_count": 191,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "我真的没法懂回避型。。喜欢过才知道有多痛苦 而且都这样了 对方居然表现的比我还要痛苦 说好话的是我 哄人的是我 解决问题的是我 放下面子求和好的也是我 你在痛苦什么呢 高高在上的 一句我是回避型我情感漠视就可以什么都不管吗 好恶心啊好恶心 最恶心的还是我自己吧 这样子了还要继续喜欢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加不交友无门\n防炸/雪兔：@QwQ_1Apple｜狗：@For_cat1102\n男的靠近就死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "QwQ_1Apple"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "For_cat1102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2087268684402176393",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 72,
+          "like_count": 670,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-28T03:43:33.000Z",
+        "description": "：只要是我想做的 错的也对                                                        最爱的@donk1337 @zweih1437 @zmjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "donk1337"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "zweih1437"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "zmjjkk"
+              }
+            ]
+          }
+        },
+        "id": "1541628293274812416",
+        "is_identity_verified": false,
+        "location": "幻想世界",
+        "most_recent_tweet_id": "2087261351660101909",
+        "name": "滂沱大雨仍通過我",
+        "pinned_tweet_id": "1840409039668387870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541628293274812416/1656388413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085674839248142336/E-vxW4wJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1051,
+          "like_count": 5762,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 3946
+        },
+        "url": "",
+        "username": "YXSZD3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

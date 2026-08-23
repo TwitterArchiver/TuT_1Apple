@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084033515767910400"
+      ]
+    },
+    "author_id": "2047631836864483328",
+    "conversation_id": "2084033587855470887",
+    "created_at": "2026-08-02T21:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084033587855470887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "le"
+        },
+        {
+          "end": 8,
+          "start": 4,
+          "tag": "wlw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAQO98c9mo",
+          "end": 32,
+          "expanded_url": "https://x.com/TuT_1Apple/status/2084033587855470887/video/1",
+          "media_key": "13_2084033515767910400",
+          "start": 9,
+          "url": "https://t.co/wAQO98c9mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084033587855470887",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#le #wlw https://t.co/wAQO98c9mo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62336,
+        "height": 390,
+        "media_key": "13_2084033515767910400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084033515767910400/img/3wdI_B28ufILQxfW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084033515767910400/vid/avc1/612x270/JGyXIewldve-07p9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084033515767910400/vid/avc1/884x390/7c9-cZeDqWuouayf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084033515767910400/pl/Ih2THO2l6JsPP8b-.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084033515767910400"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "conversation_id": "2084033587855470887",
+        "created_at": "2026-08-02T21:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084033587855470887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "le"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAQO98c9mo",
+              "end": 32,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2084033587855470887/video/1",
+              "media_key": "13_2084033515767910400",
+              "start": 9,
+              "url": "https://t.co/wAQO98c9mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084033587855470887",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#le #wlw https://t.co/wAQO98c9mo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜双相重焦OD｜不约不聊不加\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 61,
+          "like_count": 513,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}
