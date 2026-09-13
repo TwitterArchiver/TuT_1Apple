@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-13T07:36:53",
+  "last_updated": "2026-09-13T07:37:36",
   "html": {
     "https://web.archive.org/web/20260511221506if_/https://twitter.com/TuT_1Apple/status/2053962126751064428": {
       "status": "done",
@@ -7215,9 +7215,9 @@
       "referenced_by": [
         "20260607153624_twitter_com_TuT_1Apple_status_2063646263422448074.json"
       ],
-      "last_updated": "2026-08-23T03:20:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607153624if_/https://video.twimg.com/amplify_video/2063646181339828224/vid/avc1/720x1280/yqJB5McB4IrZOpde.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303cc50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607153624/https://video.twimg.com/amplify_video/2063646181339828224/vid/avc1/720x1280/yqJB5McB4IrZOpde.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f4010d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2063700628631871488/vid/avc1/720x1280/s6kB0nYRtpzlHdSM.mp4": {
       "status": "done",
@@ -7253,9 +7253,9 @@
       "referenced_by": [
         "20260609142251_twitter_com_TuT_1Apple_status_2064352528788259100.json"
       ],
-      "last_updated": "2026-08-23T03:20:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609142251im_/https://video.twimg.com/amplify_video/2064352132476919809/vid/avc1/720x878/xFGbkEO4-ZLhS1mf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303dbb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609142251/https://video.twimg.com/amplify_video/2064352132476919809/vid/avc1/720x878/xFGbkEO4-ZLhS1mf.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f401ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2064382664573153280/vid/avc1/720x860/oaAcYp3zxwiJEYVS.mp4": {
       "status": "done",
@@ -7283,9 +7283,9 @@
       "referenced_by": [
         "20260612052854_twitter_com_TuT_1Apple_status_2065305321405649362.json"
       ],
-      "last_updated": "2026-08-23T03:20:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612052854im_/https://video.twimg.com/amplify_video/2065305236680642562/vid/avc1/720x1280/JGfgR-aBs2vxQxh2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303e990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612052854/https://video.twimg.com/amplify_video/2065305236680642562/vid/avc1/720x1280/JGfgR-aBs2vxQxh2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f403bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2065323488236449793/vid/avc1/720x1280/lTrzJWurxTeTObob.mp4": {
       "status": "done",
@@ -7299,9 +7299,9 @@
       "referenced_by": [
         "20260612154959_twitter_com_TuT_1Apple_status_2065461619635929115.json"
       ],
-      "last_updated": "2026-08-23T03:20:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612154959im_/https://video.twimg.com/amplify_video/2065461521891860480/vid/avc1/720x898/9jv20tmJFDnXs0EK.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303e8a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612154959/https://video.twimg.com/amplify_video/2065461521891860480/vid/avc1/720x898/9jv20tmJFDnXs0EK.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f400ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2065513514899521536/vid/avc1/720x814/ijZyj4uuI5bhNqcy.mp4": {
       "status": "done",
@@ -7380,9 +7380,9 @@
       "referenced_by": [
         "20260616184506_twitter_com_TuT_1Apple_status_2066955241246126261.json"
       ],
-      "last_updated": "2026-08-23T03:20:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616184506im_/https://video.twimg.com/amplify_video/2066955179950501888/vid/avc1/720x1280/Xj-cvNbn4Q6FhvFa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303d460>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616184506/https://video.twimg.com/amplify_video/2066955179950501888/vid/avc1/720x1280/Xj-cvNbn4Q6FhvFa.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f4014f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2067249414708834304/vid/avc1/720x1010/359FBXf6ISuyDiem.mp4": {
       "status": "done",
@@ -7445,9 +7445,9 @@
       "referenced_by": [
         "20260619052259_twitter_com_TuT_1Apple_status_2067840546576445662.json"
       ],
-      "last_updated": "2026-08-23T03:20:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619052259im_/https://video.twimg.com/amplify_video/2067840478435762176/vid/avc1/720x1280/VZSM_ZJAF7i_Hu6X.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303f020>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619052259/https://video.twimg.com/amplify_video/2067840478435762176/vid/avc1/720x1280/VZSM_ZJAF7i_Hu6X.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f4452e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2068074668112945152/vid/avc1/720x1280/4d6uDjnc0OOBoSzN.mp4": {
       "status": "done",
@@ -7457,13 +7457,13 @@
       "last_updated": "2026-08-02T01:26:19"
     },
     "https://video.twimg.com/amplify_video/2068996220438360064/vid/avc1/854x372/T4v9uRWoCLylNZXO.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260622095549_twitter_com_TuT_1Apple_status_2068996369138987237.json"
       ],
-      "last_updated": "2026-08-23T03:20:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260622095549im_/https://video.twimg.com/amplify_video/2068996220438360064/vid/avc1/854x372/T4v9uRWoCLylNZXO.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f43732341d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:12",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260622095549/https://video.twimg.com/amplify_video/2068996220438360064/vid/avc1/854x372/T4v9uRWoCLylNZXO.mp4",
+      "miss_count": 5
     },
     "https://video.twimg.com/amplify_video/2069087539009552384/vid/avc1/720x1280/Ln6hKmFllV98JYNU.mp4": {
       "status": "done",
@@ -7554,9 +7554,9 @@
       "referenced_by": [
         "20260710110222_twitter_com_TuT_1Apple_status_2075536102069579996.json"
       ],
-      "last_updated": "2026-08-23T03:20:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260710110222im_/https://video.twimg.com/amplify_video/2075535865254928384/vid/avc1/720x1280/9qKcJyhKAF0eIRdo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303fa10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260710110222/https://video.twimg.com/amplify_video/2075535865254928384/vid/avc1/720x1280/9qKcJyhKAF0eIRdo.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f4441d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2079370888395603968/vid/avc1/884x412/0kSh27lc6eHMHbnj.mp4": {
       "status": "done",
@@ -7584,9 +7584,9 @@
       "referenced_by": [
         "20260731141614_twitter_com_TuT_1Apple_status_2083195033415827544.json"
       ],
-      "last_updated": "2026-08-23T03:20:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731141614im_/https://video.twimg.com/amplify_video/2083194993645432832/vid/avc1/720x1280/cst8Tm0ZZlc6HMYr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303c980>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731141614/https://video.twimg.com/amplify_video/2083194993645432832/vid/avc1/720x1280/cst8Tm0ZZlc6HMYr.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f402c30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2084033515767910400/vid/avc1/884x390/7c9-cZeDqWuouayf.mp4": {
       "status": "done",
@@ -7607,18 +7607,18 @@
       "referenced_by": [
         "20260802234552_twitter_com_TuT_1Apple_status_2084063160471003441.json"
       ],
-      "last_updated": "2026-08-23T03:20:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802234552im_/https://video.twimg.com/amplify_video/2083906358727045120/vid/avc1/720x766/qinv6r3CLndDgR9p.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f437303dbe0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-13T07:37:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802234552/https://video.twimg.com/amplify_video/2083906358727045120/vid/avc1/720x766/qinv6r3CLndDgR9p.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f445cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2085667042154467328/vid/avc1/590x1280/t3Ebe3nzP1gTQBQY.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260807095916_twitter_com_TuT_1Apple_status_2085667080943386890.json"
       ],
-      "last_updated": "2026-08-23T03:20:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260807095916im_/https://video.twimg.com/amplify_video/2085667042154467328/vid/avc1/590x1280/t3Ebe3nzP1gTQBQY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f43732341d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-13T07:37:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260807095916/https://video.twimg.com/amplify_video/2085667042154467328/vid/avc1/590x1280/t3Ebe3nzP1gTQBQY.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f167f445c70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2085671577774120960/vid/avc1/720x1280/qlTaAAEpMsbKCqi4.mp4": {
       "status": "done",
@@ -10518,8 +10518,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260517124255_twitter_com_TuT_1Apple_status_2055992457792540826.json": {
       "status": "done",
@@ -10569,8 +10569,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260531143724_twitter_com_TuT_1Apple_status_2061094701386854532.json": {
       "status": "done",
@@ -10594,8 +10594,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260531205250_twitter_com_TuT_1Apple_status_2061189182731764109.json": {
       "status": "done",
@@ -10720,8 +10720,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260601191255_twitter_com_TuT_1Apple_status_2061526423953965515.json": {
       "status": "done",
@@ -10874,8 +10874,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260602145114_twitter_com_TuT_1Apple_status_2061822958793068554.json": {
       "status": "failed",
@@ -10887,8 +10887,8 @@
           "https://pbs.twimg.com/profile_images/2053259970775285763/YWFFkta6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260602151636_twitter_com_TuT_1Apple_status_2061829342557340031.json": {
       "status": "done",
@@ -10936,8 +10936,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260604053232_twitter_com_TuT_1Apple_status_2062407131530440801.json": {
       "status": "done",
@@ -10961,8 +10961,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260604054234_twitter_com_TuT_1Apple_status_2062409657919152424.json": {
       "status": "done",
@@ -11452,8 +11452,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260607153411_twitter_com_TuT_1Apple_status_2063645704799887565.json": {
       "status": "failed",
@@ -11466,8 +11466,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260607153624_twitter_com_TuT_1Apple_status_2063646263422448074.json": {
       "status": "failed",
@@ -11480,8 +11480,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260607164422_twitter_com_TuT_1Apple_status_2063663368427442596.json": {
       "status": "done",
@@ -11578,8 +11578,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260608094837_twitter_com_TuT_1Apple_status_2063921127978934539.json": {
       "status": "done",
@@ -11614,8 +11614,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260608095820_twitter_com_TuT_1Apple_status_2063923575204286476.json": {
       "status": "done",
@@ -11983,8 +11983,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609024154_twitter_com_TuT_1Apple_status_2064176130928878003.json": {
       "status": "failed",
@@ -11996,8 +11996,8 @@
           "https://pbs.twimg.com/profile_images/2063788755467612161/NFjwE3zH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609025743_twitter_com_TuT_1Apple_status_2064180110073454762.json": {
       "status": "done",
@@ -12056,8 +12056,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609050557_twitter_com_TuT_1Apple_status_2064212379756634215.json": {
       "status": "done",
@@ -12375,8 +12375,8 @@
           "https://pbs.twimg.com/profile_images/2061813781018370050/5C9kIT9o_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609112415_twitter_com_TuT_1Apple_status_2064307584178503953.json": {
       "status": "done",
@@ -12438,8 +12438,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609125432_twitter_com_TuT_1Apple_status_2064330304308002902.json": {
       "status": "done",
@@ -12499,8 +12499,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260609142740_twitter_com_TuT_1Apple_status_2064353741978116599.json": {
       "status": "failed",
@@ -12514,8 +12514,8 @@
           "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609151351_twitter_com_TuT_1Apple_status_2064365362733584488.json": {
       "status": "done",
@@ -12642,8 +12642,8 @@
           "https://pbs.twimg.com/profile_images/2062720414254604289/QldMtcwi_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609162354_twitter_com_TuT_1Apple_status_2064382992114659505.json": {
       "status": "done",
@@ -12693,8 +12693,8 @@
           "https://pbs.twimg.com/profile_images/2064284781911982080/AvnCe33U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260609180122_twitter_com_TuT_1Apple_status_2064407522883383397.json": {
       "status": "done",
@@ -12829,8 +12829,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260610104431_twitter_com_TuT_1Apple_status_2064659971183456484.json": {
       "status": "done",
@@ -12966,8 +12966,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260610141543_twitter_com_TuT_1Apple_status_2064713122657780136.json": {
       "status": "done",
@@ -13012,8 +13012,8 @@
           "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260610152628_twitter_com_TuT_1Apple_status_2064730928342282276.json": {
       "status": "done",
@@ -13036,8 +13036,8 @@
           "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260610153329_twitter_com_TuT_1Apple_status_2064732691703194093.json": {
       "status": "done",
@@ -13424,8 +13424,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260612064123_twitter_com_TuT_1Apple_status_2065323563209617735.json": {
       "status": "done",
@@ -13544,8 +13544,8 @@
           "https://pbs.twimg.com/profile_images/2025761150823272448/qv5wx7bw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260612130950_twitter_com_TuT_1Apple_status_2065421317181149452.json": {
       "status": "failed",
@@ -13557,8 +13557,8 @@
           "https://pbs.twimg.com/profile_images/2025761150823272448/qv5wx7bw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260612153054_twitter_com_TuT_1Apple_status_2065456819565465839.json": {
       "status": "done",
@@ -13596,8 +13596,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260612161657_twitter_com_TuT_1Apple_status_2065468405860520122.json": {
       "status": "done",
@@ -13671,8 +13671,8 @@
           "https://pbs.twimg.com/profile_images/2042614862740885512/ARqQa0-n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260612175927_twitter_com_TuT_1Apple_status_2065494201043955722.json": {
       "status": "done",
@@ -13973,8 +13973,8 @@
           "https://pbs.twimg.com/profile_images/2041775447302897664/hoh_CnnW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260613083055_twitter_com_TuT_1Apple_status_2065713514099208228.json": {
       "status": "done",
@@ -14071,8 +14071,8 @@
           "https://pbs.twimg.com/profile_images/2052161432104685568/X7z23K8P_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260613150414_twitter_com_TuT_1Apple_status_2065812494614921485.json": {
       "status": "done",
@@ -14170,8 +14170,8 @@
           "https://pbs.twimg.com/profile_images/2052161432104685568/X7z23K8P_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260613181555_twitter_com_TuT_1Apple_status_2065860735951839260.json": {
       "status": "failed",
@@ -14183,8 +14183,8 @@
           "https://pbs.twimg.com/profile_images/2052161432104685568/X7z23K8P_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260613185207_twitter_com_TuT_1Apple_status_2065869843232915653.json": {
       "status": "done",
@@ -14285,8 +14285,8 @@
           "https://pbs.twimg.com/profile_images/2052161432104685568/X7z23K8P_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260613212219_twitter_com_TuT_1Apple_status_2065907642371842152.json": {
       "status": "done",
@@ -14348,8 +14348,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614044417_twitter_com_TuT_1Apple_status_2066018867378569252.json": {
       "status": "done",
@@ -14519,8 +14519,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614103624_twitter_com_TuT_1Apple_status_2066107482016219170.json": {
       "status": "done",
@@ -14557,8 +14557,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614133649_twitter_com_TuT_1Apple_status_2066152883423433206.json": {
       "status": "failed",
@@ -14571,8 +14571,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614133733_twitter_com_TuT_1Apple_status_2066153069025661249.json": {
       "status": "done",
@@ -14597,8 +14597,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614140206_twitter_com_TuT_1Apple_status_2066159247310868645.json": {
       "status": "done",
@@ -14625,8 +14625,8 @@
           "https://pbs.twimg.com/profile_images/2042614862740885512/ARqQa0-n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:59",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614142037_twitter_com_TuT_1Apple_status_2066163908021481744.json": {
       "status": "done",
@@ -14664,8 +14664,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:59",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614144012_twitter_com_TuT_1Apple_status_2066168833950507208.json": {
       "status": "done",
@@ -14760,8 +14760,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614163517_twitter_com_TuT_1Apple_status_2066197797289005058.json": {
       "status": "done",
@@ -14890,8 +14890,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260614183123_twitter_com_TuT_1Apple_status_2066227014638698748.json": {
       "status": "done",
@@ -15109,8 +15109,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260615043444_twitter_com_TuT_1Apple_status_2066378850720690448.json": {
       "status": "failed",
@@ -15123,8 +15123,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260615043555_twitter_com_TuT_1Apple_status_2066379151108698426.json": {
       "status": "done",
@@ -15199,8 +15199,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260615063841_twitter_com_TuT_1Apple_status_2066410043319415188.json": {
       "status": "done",
@@ -15321,8 +15321,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260615112732_twitter_com_TuT_1Apple_status_2066482737763189186.json": {
       "status": "done",
@@ -15392,8 +15392,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 5
     },
     "20260615115624_twitter_com_TuT_1Apple_status_2066489999852552692.json": {
       "status": "done",
@@ -15599,8 +15599,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260615140026_twitter_com_TuT_1Apple_status_2066521214542282829.json": {
       "status": "done",
@@ -15712,8 +15712,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616055655_twitter_com_TuT_1Apple_status_2066761921504879000.json": {
       "status": "done",
@@ -15759,8 +15759,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 5
     },
     "20260616063756_twitter_com_TuT_1Apple_status_2066772242868973910.json": {
       "status": "failed",
@@ -15773,8 +15773,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616064403_twitter_com_TuT_1Apple_status_2066773782984094017.json": {
       "status": "done",
@@ -16000,8 +16000,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616111257_twitter_com_TuT_1Apple_status_2066841455709261878.json": {
       "status": "done",
@@ -16025,8 +16025,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616112953_twitter_com_TuT_1Apple_status_2066845716878905719.json": {
       "status": "failed",
@@ -16039,8 +16039,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616114322_twitter_com_TuT_1Apple_status_2066849110830060010.json": {
       "status": "done",
@@ -16089,8 +16089,8 @@
           "https://pbs.twimg.com/profile_images/2066756153837768704/T51qDHls_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616124723_twitter_com_TuT_1Apple_status_2066865218849058908.json": {
       "status": "done",
@@ -16175,8 +16175,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616141710_twitter_com_TuT_1Apple_status_2066887812805472471.json": {
       "status": "done",
@@ -16259,8 +16259,8 @@
           "https://pbs.twimg.com/profile_images/2066447932627234816/Eu63QoGF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260616161628_twitter_com_TuT_1Apple_status_2066917838141702587.json": {
       "status": "done",
@@ -16501,8 +16501,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260616184649_twitter_com_TuT_1Apple_status_2066955671900496126.json": {
       "status": "done",
@@ -16682,8 +16682,8 @@
           "https://pbs.twimg.com/profile_images/2061248029982855168/q0wRCAry_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:28:57",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617052409_twitter_com_TuT_1Apple_status_2067116064560029807.json": {
       "status": "done",
@@ -16790,8 +16790,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:13",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617084507_twitter_com_TuT_1Apple_status_2067166639477657723.json": {
       "status": "failed",
@@ -16804,8 +16804,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:02",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617085952_twitter_com_TuT_1Apple_status_2067170351558373861.json": {
       "status": "done",
@@ -16855,8 +16855,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:13",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617115421_twitter_com_TuT_1Apple_status_2067214262679023631.json": {
       "status": "done",
@@ -16884,8 +16884,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:03",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617115808_twitter_com_TuT_1Apple_status_2067215213943050313.json": {
       "status": "done",
@@ -16935,8 +16935,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:07",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617120724_twitter_com_TuT_1Apple_status_2067217544004669491.json": {
       "status": "done",
@@ -17041,8 +17041,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617130825_twitter_com_TuT_1Apple_status_2067232901046153572.json": {
       "status": "done",
@@ -17153,8 +17153,8 @@
           "https://pbs.twimg.com/profile_images/2067038715478716416/dhrcNfx6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260617150412_twitter_com_TuT_1Apple_status_2067262040251765127.json": {
       "status": "done",
@@ -17311,8 +17311,8 @@
           "https://pbs.twimg.com/profile_images/2067335782038482944/bDmqTBDj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:00",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618012106_twitter_com_TuT_1Apple_status_2067417285028167723.json": {
       "status": "done",
@@ -17402,8 +17402,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618020731_twitter_com_TuT_1Apple_status_2067428967016231189.json": {
       "status": "failed",
@@ -17416,8 +17416,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618022532_twitter_com_TuT_1Apple_status_2067433500350062899.json": {
       "status": "done",
@@ -17607,8 +17607,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618044545_twitter_com_TuT_1Apple_status_2067468789340651689.json": {
       "status": "failed",
@@ -17621,8 +17621,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618050812_twitter_com_TuT_1Apple_status_2067474438468284468.json": {
       "status": "done",
@@ -17666,8 +17666,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:17",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618091148_twitter_com_TuT_1Apple_status_2067535743011230172.json": {
       "status": "done",
@@ -17691,8 +17691,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618094801_twitter_com_TuT_1Apple_status_2067544856189362282.json": {
       "status": "done",
@@ -17803,8 +17803,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618101615_twitter_com_TuT_1Apple_status_2067551963324252445.json": {
       "status": "done",
@@ -17864,8 +17864,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618112613_twitter_com_TuT_1Apple_status_2067569567086625070.json": {
       "status": "done",
@@ -17902,8 +17902,8 @@
           "https://pbs.twimg.com/profile_images/2067180926065586177/_CphXm5m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618113424_twitter_com_TuT_1Apple_status_2067571627861409924.json": {
       "status": "failed",
@@ -17916,8 +17916,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618113600_twitter_com_TuT_1Apple_status_2067572031852540251.json": {
       "status": "done",
@@ -18161,8 +18161,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618154730_twitter_com_TuT_1Apple_status_2067635322067067141.json": {
       "status": "done",
@@ -18323,8 +18323,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618193613_twitter_com_TuT_1Apple_status_2067692883365298422.json": {
       "status": "done",
@@ -18349,8 +18349,8 @@
           "https://pbs.twimg.com/profile_images/2066790354574262272/2zzscryn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260618194139_twitter_com_TuT_1Apple_status_2067694247319367705.json": {
       "status": "done",
@@ -18423,8 +18423,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619050427_twitter_com_TuT_1Apple_status_2067835880123797993.json": {
       "status": "done",
@@ -18463,8 +18463,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260619054848_twitter_com_TuT_1Apple_status_2067847042701890034.json": {
       "status": "done",
@@ -18502,8 +18502,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619070330_twitter_com_TuT_1Apple_status_2067865840314130465.json": {
       "status": "done",
@@ -18617,8 +18617,8 @@
           "https://pbs.twimg.com/profile_images/2067154078380273664/t8dfz-Uy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:01",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619125558_twitter_com_TuT_1Apple_status_2067954545091817918.json": {
       "status": "done",
@@ -18718,8 +18718,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619155434_twitter_com_TuT_1Apple_status_2067999489143763020.json": {
       "status": "failed",
@@ -18733,8 +18733,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619155447_twitter_com_TuT_1Apple_status_2067999545259352233.json": {
       "status": "failed",
@@ -18747,8 +18747,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:07",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619155758_twitter_com_TuT_1Apple_status_2068000343838044570.json": {
       "status": "done",
@@ -18810,8 +18810,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619180035_twitter_com_TuT_1Apple_status_2068031201999564840.json": {
       "status": "failed",
@@ -18823,8 +18823,8 @@
           "https://pbs.twimg.com/profile_images/2065515669874159616/Zfw23XZX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619180845_twitter_com_TuT_1Apple_status_2068033258055692306.json": {
       "status": "done",
@@ -18969,8 +18969,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619211246_twitter_com_TuT_1Apple_status_2068079568498626831.json": {
       "status": "done",
@@ -18996,8 +18996,8 @@
           "https://pbs.twimg.com/profile_images/1940388261928534016/UwYYX7Jp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:04",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260619213513_twitter_com_TuT_1Apple_status_2068085216837865599.json": {
       "status": "done",
@@ -19073,8 +19073,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620053327_twitter_com_TuT_1Apple_status_2068205568071020945.json": {
       "status": "failed",
@@ -19087,8 +19087,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620072608_twitter_com_TuT_1Apple_status_2068233925957447860.json": {
       "status": "done",
@@ -19114,8 +19114,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620084022_twitter_com_TuT_1Apple_status_2068252608025010268.json": {
       "status": "failed",
@@ -19128,8 +19128,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620091731_twitter_com_TuT_1Apple_status_2068261955157324009.json": {
       "status": "done",
@@ -19230,8 +19230,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620131021_twitter_com_TuT_1Apple_status_2068320550888632645.json": {
       "status": "failed",
@@ -19244,8 +19244,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260620132406_twitter_com_TuT_1Apple_status_2068324010488983808.json": {
       "status": "done",
@@ -19433,11 +19433,11 @@
           "https://pbs.twimg.com/profile_images/2067482035648659457/73Yi_sj__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260622095549_twitter_com_TuT_1Apple_status_2068996369138987237.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -19447,7 +19447,7 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
+      "last_updated": "2026-09-13T07:37:12",
       "miss_count": 3
     },
     "20260622105304_twitter_com_TuT_1Apple_status_2069010776313168181.json": {
@@ -19486,8 +19486,8 @@
           "https://pbs.twimg.com/profile_images/2067482035648659457/73Yi_sj__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260622140554_twitter_com_TuT_1Apple_status_2069059305601638635.json": {
       "status": "failed",
@@ -19502,8 +19502,8 @@
           "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:08",
-      "miss_count": 4
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 5
     },
     "20260622144240_twitter_com_TuT_1Apple_status_2069068557921755295.json": {
       "status": "done",
@@ -19644,8 +19644,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260622205851_twitter_com_TuT_1Apple_status_2069163226735186306.json": {
       "status": "done",
@@ -19805,8 +19805,8 @@
           "https://pbs.twimg.com/profile_images/2040622839762681856/QO1bWojs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260623112101_twitter_com_TuT_1Apple_status_2069380200388006339.json": {
       "status": "done",
@@ -19878,8 +19878,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260623140643_twitter_com_TuT_1Apple_status_2069421898589757683.json": {
       "status": "done",
@@ -20207,8 +20207,8 @@
           "https://pbs.twimg.com/profile_images/2070162066124451840/lZ5eyOmD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260626054914_twitter_com_TuT_1Apple_status_2070383868713250942.json": {
       "status": "done",
@@ -20416,8 +20416,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260628135907_twitter_com_TuT_1Apple_status_2071231927869178279.json": {
       "status": "done",
@@ -20704,8 +20704,8 @@
           "https://pbs.twimg.com/profile_images/2067269198490083328/DY3NP8Rn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260702122609_twitter_com_TuT_1Apple_status_2072658082178752644.json": {
       "status": "done",
@@ -21002,8 +21002,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260704145455_twitter_com_TuT_1Apple_status_2073420293977051482.json": {
       "status": "done",
@@ -21256,8 +21256,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260708172216_twitter_com_TuT_1Apple_status_2074906930183798814.json": {
       "status": "done",
@@ -21332,8 +21332,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 4
     },
     "20260710110658_twitter_com_TuT_1Apple_status_2075537256149049362.json": {
       "status": "done",
@@ -21357,8 +21357,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 5
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 6
     },
     "20260710174930_twitter_com_TuT_1Apple_status_2075638556689830032.json": {
       "status": "done",
@@ -21861,8 +21861,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:14",
+      "miss_count": 4
     },
     "20260731194745_twitter_com_TuT_1Apple_status_2083278462547378644.json": {
       "status": "done",
@@ -21937,8 +21937,8 @@
           "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260802214821_twitter_com_TuT_1Apple_status_2084033587855470887.json": {
       "status": "done",
@@ -21998,8 +21998,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:13",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260802215959_twitter_com_TuT_1Apple_status_2084036517153132979.json": {
       "status": "done",
@@ -22080,8 +22080,8 @@
           "https://pbs.twimg.com/profile_images/2080241638916640769/bRouKqK5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 1
+      "last_updated": "2026-09-13T07:37:14",
+      "miss_count": 2
     },
     "20260803020200_twitter_com_TuT_1Apple_status_2084097420934418607.json": {
       "status": "done",
@@ -22245,8 +22245,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:05",
-      "miss_count": 2
+      "last_updated": "2026-09-13T07:37:13",
+      "miss_count": 3
     },
     "20260807101727_twitter_com_TuT_1Apple_status_2085671654953496712.json": {
       "status": "done",
@@ -22272,8 +22272,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:09",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260807125335_twitter_com_TuT_1Apple_status_2085710950389129415.json": {
       "status": "done",
@@ -22321,8 +22321,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:11",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260808105309_twitter_com_TuT_1Apple_status_2086043028058439885.json": {
       "status": "done",
@@ -22443,8 +22443,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:11",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260809172009_twitter_com_TuT_1Apple_status_2086502810036969832.json": {
       "status": "done",
@@ -22567,8 +22567,8 @@
           "https://pbs.twimg.com/profile_images/2073028605723197440/eUmZvnrq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 1
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 2
     },
     "20260810122421_twitter_com_TuT_1Apple_status_2086790753741836751.json": {
       "status": "done",
@@ -22606,8 +22606,8 @@
           "https://pbs.twimg.com/profile_images/2064028657203503104/qxfJ9tfm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 1
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 2
     },
     "20260810125543_twitter_com_TuT_1Apple_status_2086798648105693587.json": {
       "status": "failed",
@@ -22621,8 +22621,8 @@
           "https://pbs.twimg.com/profile_images/2082489498676473856/VpvpPhL3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 1
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 2
     },
     "20260810125806_twitter_com_TuT_1Apple_status_2086799250671984802.json": {
       "status": "done",
@@ -22693,8 +22693,8 @@
           "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260810142520_twitter_com_TuT_1Apple_status_2086821203323531654.json": {
       "status": "done",
@@ -22785,8 +22785,8 @@
           "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260810173723_twitter_com_TuT_1Apple_status_2086869534737350805.json": {
       "status": "done",
@@ -23569,8 +23569,8 @@
           "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-13T07:29:12",
-      "miss_count": 3
+      "last_updated": "2026-09-13T07:37:11",
+      "miss_count": 4
     },
     "20260812102753_twitter_com_TuT_1Apple_status_2087486219597038025.json": {
       "status": "done",
